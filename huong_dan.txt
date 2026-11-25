@@ -1,0 +1,1 @@
+Cap nhat website: giai nen neu can, sau do tai len Netlify qua Drop new files va Publish new version. Cac cau bo trong van tinh sai va 0 diem, nhung khong hien trong danh sach giai thich.
