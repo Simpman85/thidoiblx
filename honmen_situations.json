@@ -1,1 +1,332 @@
-
+{
+  "title": "Ôn Luyện – Câu hỏi tình huống",
+  "scenarioCount": 12,
+  "statementCount": 36,
+  "scenarios": [
+    {
+      "scenarioNumber": 1,
+      "sourceQuestionNumber": 1,
+      "sourcePage": 68,
+      "image": "assets/honmen/situations/honmen-situation-01.jpg",
+      "title": "Đang lái xe với tốc độ 40 km/h. Phía trước có người đi xe đạp trong trạng thái loạng choạng, do vậy cần lưu ý gì khi lái xe?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 427,
+          "text": "Có thể người đi xe đạp sẽ nhận ra xe tôi đang tiến tới gần mình nên tôi cứ giữ nguyên tốc độ và lái xe vượt qua.",
+          "answer": "SAI"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 428,
+          "text": "Người đi xe đạp trong trạng thái loạng choạng có khả năng bị ngã nên tôi nhanh chóng tăng tốc và lái xe vượt qua.",
+          "answer": "SAI"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 429,
+          "text": "Có thể người đi xe đạp đang say rượu nên tôi lái xe về phía đường bên phải, khi xác nhận xe đạp không đi vào phần giữa đường thì lái xe vượt qua.",
+          "answer": "ĐÚNG"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 2,
+      "sourceQuestionNumber": 2,
+      "sourcePage": 69,
+      "image": "assets/honmen/situations/honmen-situation-02.jpg",
+      "title": "Đang lái xe với tốc độ 30 km/h. Trong khu vực có sương mù thì cần lưu ý gì khi lái xe?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 430,
+          "text": "Trong khu vực có sương mù có khả năng có người đi bộ xuất hiện đột ngột nên giảm tốc độ và bấm còi khi cần thiết.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 431,
+          "text": "Giảm tốc độ đột ngột có thể khiến cho xe sau đâm vào xe mình, do vậy nhấn phanh chia thành nhiều lần.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 432,
+          "text": "Khu vực có sương mù thì tầm nhìn bị hạn chế khá nhiều, do vậy nếu có đèn dành cho khi vào khu vực sương mù thì bật đèn lên; nếu không có thì nhanh chóng bật đèn pha, giảm tốc độ và lưu thông.",
+          "answer": "ĐÚNG"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 3,
+      "sourceQuestionNumber": 3,
+      "sourcePage": 70,
+      "image": "assets/honmen/situations/honmen-situation-03.jpg",
+      "title": "Đang lái xe với tốc độ 40 km/h. Khi xe đối diện chạy vượt qua nhau với tình trạng đang bật đèn pha thì cần lưu ý gì khi lái xe?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 433,
+          "text": "Do đèn pha của xe đối diện chói nên cần chuyển hướng nhìn hơi chếch về phía phải để tránh bị lóa mắt.",
+          "answer": "SAI"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 434,
+          "text": "Đèn pha của xe đối diện làm lóa mắt và có khả năng không kịp bẻ lái cua dẫn tới đâm vào thanh rào chắn, do vậy cần giảm tốc độ ngay lập tức.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 435,
+          "text": "Do đèn pha của xe đối diện chói nên khi đi ngang qua, tôi cũng bật đèn pha.",
+          "answer": "SAI"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 4,
+      "sourceQuestionNumber": 4,
+      "sourcePage": 71,
+      "image": "assets/honmen/situations/honmen-situation-04.jpg",
+      "title": "Đang lái xe với tốc độ 40 km/h. Đằng sau 2 ô tô đang dừng có xe buýt tiến lại gần, khi lái xe cần lưu ý gì?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 436,
+          "text": "Vì xe buýt phải đảm bảo an toàn cho hành khách nên không lái xe cẩu thả và sẽ nhường cho mình vượt qua trước, do vậy không đợi và tăng tốc đi vượt qua.",
+          "answer": "SAI"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 437,
+          "text": "Vì xe buýt có thể lấn sang đường trung tâm nên chạy sát đường trung tâm để xe buýt không thể lấn sang.",
+          "answer": "SAI"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 438,
+          "text": "Từ phía sau của xe đang đỗ phía trước có thể có người đi bộ qua đường, do vậy cần chú ý phía sau của xe đang đỗ và động thái của xe buýt, vừa giảm tốc độ vừa đi qua.",
+          "answer": "ĐÚNG"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 5,
+      "sourceQuestionNumber": 5,
+      "sourcePage": 72,
+      "image": "assets/honmen/situations/honmen-situation-05.jpg",
+      "title": "Đang lái xe với tốc độ 80 km/h trên đường cao tốc. Xe cỡ lớn phía sau đang tăng tốc tiến lại gần. Cần lưu ý gì khi lái xe?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 439,
+          "text": "Xe phía trước bên phải có khả năng chuyển gấp sang làn trái hay xe máy phía trước bên trái có khả năng chuyển gấp sang làn phải, do vậy giữ nguyên tốc độ, vừa giữ khoảng cách với xe ô tô phía trước vừa lưu thông.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 440,
+          "text": "Nếu giữ khoảng cách với xe phía trước, có khả năng bị xe khác tạt đầu xe mình, do đó tăng tốc để giảm khoảng cách với xe phía trước.",
+          "answer": "SAI"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 441,
+          "text": "Xe cỡ lớn phía sau đang tăng tốc tiến lại gần. Do vậy chuyển sang làn trái đang trống, vừa giữ khoảng cách với xe máy vừa lưu thông.",
+          "answer": "ĐÚNG"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 6,
+      "sourceQuestionNumber": 6,
+      "sourcePage": 73,
+      "image": "assets/honmen/situations/honmen-situation-06.jpg",
+      "title": "Giảm tốc độ với tốc độ 20 km/h khi rẽ trái ở ngã tư thì nên lưu ý điều gì khi lái xe?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 442,
+          "text": "Khi lái xe tại phần đường dành cho người đi bộ phía bên trái, vì có người đi bộ qua đường từ 2 phía nên để tránh việc làm cản trở việc đi lại của người đi bộ, tôi rẽ trái ở phần trung tâm của đường.",
+          "answer": "SAI"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 443,
+          "text": "Do có người đi bộ qua đường, để người đi bộ an tâm đi qua đường, thì tiến và dừng lại trước phần đường cho người đi bộ, đợi người đi bộ đi qua và rẽ trái.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 444,
+          "text": "Có khả năng xe đối diện cố tình rẽ phải nên tôi tăng tốc trước khi rẽ trái.",
+          "answer": "SAI"
+        }
+      ],
+      "textNote": "Câu phát biểu số 3 ở bản quét trang 73 bị cắt mất phần cuối; nội dung được giữ theo phần đọc được trong bản trích xuất, không tự bổ sung phần bị mất."
+    },
+    {
+      "scenarioNumber": 7,
+      "sourceQuestionNumber": 7,
+      "sourcePage": 74,
+      "image": "assets/honmen/situations/honmen-situation-07.jpg",
+      "title": "Trong khu đường có rào chắn đường sắt, độ rộng của đường không đủ rộng nên để đi vượt qua xe tải đối diện thì cần lưu ý gì?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 445,
+          "text": "Trong khu đường có rào chắn đường sắt, độ rộng của đường không đủ rộng nên để đi vượt qua xe tải đối diện thì sau khi xe trước vượt qua, xe mình không dừng lại mà tiếp tục đi vào bên trong khu vực rào chắn đường sắt.",
+          "answer": "SAI"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 446,
+          "text": "Sau khi xe trước di chuyển thì tiến tới trước rào chắn đường sắt, dừng lại và dùng tai với mắt xác nhận an toàn.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 447,
+          "text": "Sau khi xe trước vượt qua khu đường có rào chắn đường sắt, phải dừng lại chờ ở phía trước rào chắn đường sắt cho tới khi xác nhận đủ chỗ trống cho xe mình có thể dừng an toàn ở phần phía trước bên kia của thanh ngang.",
+          "answer": "ĐÚNG"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 8,
+      "sourceQuestionNumber": 8,
+      "sourcePage": 75,
+      "image": "assets/honmen/situations/honmen-situation-08.jpg",
+      "title": "Đang lái xe trước khu đường có thanh ngang chắn tàu sau khi tạm dừng thì cần lưu ý gì khi lái xe?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 448,
+          "text": "Có đường có thanh ngang chắn tàu mấp mô, có khả năng bị mất lái nên tôi nắm chặt tay lái và tiến vào.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 449,
+          "text": "Do đường có thanh ngang chắn tàu mấp mô và xe đối diện có thể lấn sang phần giữa đường, vừa chú ý động thái của xe đó vừa tránh xe bị trật bánh nên cố gắng lái vào phần giữa đường và tiến vào.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 450,
+          "text": "Do đường có thanh ngang chắn tàu mấp mô không thể ngừng xe giữa chừng nên nhanh chóng đổi số, tăng tốc chạy thẳng.",
+          "answer": "SAI"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 9,
+      "sourceQuestionNumber": 9,
+      "sourcePage": 76,
+      "image": "assets/honmen/situations/honmen-situation-09.jpg",
+      "title": "Đang lái xe với tốc độ 40 km/h. Cần lưu ý gì khi lái xe?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 451,
+          "text": "Giảm tốc độ đột ngột có thể làm xe sau đâm vào xe mình, do vậy tăng tốc và vượt xe tắc xi.",
+          "answer": "SAI"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 452,
+          "text": "Người đi bộ vẫy tay gọi tắc xi nên có khả năng xe sẽ dừng đột ngột, do vậy cần giảm tốc độ và giữ khoảng cách giữa hai xe.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 453,
+          "text": "Do xe tắc xi không bật xi nhan rẽ trái mà phía sau đang có xe chạy đến nên chắc không có khả năng xe tắc xi dừng đột ngột, do đó tôi giữ nguyên tốc độ và lưu thông.",
+          "answer": "SAI"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 10,
+      "sourceQuestionNumber": 10,
+      "sourcePage": 77,
+      "image": "assets/honmen/situations/honmen-situation-10.jpg",
+      "title": "Tình huống xe tiến vào nơi chắn tàu khi tầm nhìn phía trước bị hạn chế.",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 454,
+          "text": "Vì không thể quan sát hết tình hình giao thông phía trước nên trước khi cho xe tiến vào nơi chắn tàu cần tạm dừng xác nhận xem phía bên kia có còn khoảng trống cho xe mình hay không.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 455,
+          "text": "Dù có xe phía trước đang tiến đến, nhưng bạn cũng không nên di chuyển quá sát về phần đường bên trái.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 456,
+          "text": "Vì có xe tải đang di chuyển đằng sau xe đang chạy ngược chiều phía trước nên có khả năng đường trong nơi chắn tàu sẽ không đủ rộng để có thể tránh xe tải, do đó bạn đã di chuyển nối đuôi theo xe phía trước, nhanh chóng di chuyển qua nơi chắn tàu.",
+          "answer": "SAI"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 11,
+      "sourceQuestionNumber": 11,
+      "sourcePage": 78,
+      "image": "assets/honmen/situations/honmen-situation-11.jpg",
+      "title": "Tình huống xe đối diện đang tới gần ở đoạn đường cong.",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 457,
+          "text": "Xe đối diện đang tới gần, xe phía trước có khả năng sẽ dừng trong khoảng góc cua, nên tôi giảm tốc độ vừa quan sát đồng thời 2 xe đó và lưu thông.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 458,
+          "text": "Xe phía trước và xe đối diện do đi vượt qua nhau nên xe trước có thể lùi xe. Do vậy tôi giữ khoảng cách giữa 2 xe và dừng xe.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 459,
+          "text": "Tuy giữa 2 xe phía trước có cột điện, có khoảng trống nhưng việc lưu thông tại chỗ đó nguy hiểm nên tôi giữ khoảng cách giữa 2 xe và lưu thông.",
+          "answer": "ĐÚNG"
+        }
+      ]
+    },
+    {
+      "scenarioNumber": 12,
+      "sourceQuestionNumber": 12,
+      "sourcePage": 79,
+      "image": "assets/honmen/situations/honmen-situation-12.jpg",
+      "title": "Đang lái xe với tốc độ 80 km/h trên đường cao tốc. Cần lưu ý gì khi lái xe?",
+      "statements": [
+        {
+          "statementNumber": 1,
+          "sourceQuestionNumber": 460,
+          "text": "Xe của mình có khả năng đang ở vị trí góc chết của gương hậu xe bên phải, do vậy ta giảm ga và ra khỏi góc chết.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 2,
+          "sourceQuestionNumber": 461,
+          "text": "Xe chạy đường dài dễ bị rơi vào tình trạng chạy quá tốc độ nên vừa lưu thông vừa nhìn đồng hồ tốc độ để xác nhận tốc độ.",
+          "answer": "ĐÚNG"
+        },
+        {
+          "statementNumber": 3,
+          "sourceQuestionNumber": 462,
+          "text": "Do tình hình giao thông phía trước của xe tải không thể nhìn thấy nên vừa lưu thông vừa giữ thêm khoảng cách giữa 2 xe dài hơn.",
+          "answer": "ĐÚNG"
+        }
+      ]
+    }
+  ]
+}
