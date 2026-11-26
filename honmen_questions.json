@@ -1,1 +1,4364 @@
-
+[
+  {
+    "id": "honmen-a-1",
+    "text": "Cả 2 tín hiệu tay của cảnh sát đều giống với đèn tín hiệu màu đỏ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-1.jpg",
+    "questionNumber": 1
+  },
+  {
+    "id": "honmen-a-2",
+    "text": "Bién báo và chỉ dẫn này có ý nghĩa giống nhau .",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-2.jpg",
+    "questionNumber": 2
+  },
+  {
+    "id": "honmen-a-3",
+    "text": "Khi định rẽ trái thì phải đi sát lề trái của đường nếu có thê và đi với tốc độ chậm.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 3
+  },
+  {
+    "id": "honmen-a-4",
+    "text": "Tại đường có biên chỉ dẫn này thì không thé quay dau.",
+    "answer": "SAI",
+    "explanation": "chi cam băng qua",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-4.jpg",
+    "questionNumber": 4
+  },
+  {
+    "id": "honmen-a-5",
+    "text": "Trong vòng 30m tinh từ điểm dừng xe buýt thì không được vượt.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 5
+  },
+  {
+    "id": "honmen-a-6",
+    "text": "Khi có chướng ngại vật trên đường phía trước, hãy tăng tóc đi dé đi qua khu vực đó trước phương tiện chạy ngược chiều.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 6
+  },
+  {
+    "id": "honmen-a-7",
+    "text": "Khi chuẩn bị rẽ trái tại ngã tư phía trước, trước tiên hãy di chuyển vào phần giữa đường, sau đó chạy chậm lại đồng thời rẽ trái. (Ngoại trừ nút giao thông vòng xuyén.)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 3,
+    "section": "honmen-a",
+    "questionNumber": 7
+  },
+  {
+    "id": "honmen-a-8",
+    "text": "Xe B ,đang chạy vào trong ngã tư như hình vẽ, không được cản trở việc lưu thông A đang chạy vào ngã tư từ phía trái. Chú ý: Phải nhường xe trên đường ưu tiên, nếu 2 đường không ưu tiên thì phải nhường xe phía bên tay trái.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-8.jpg",
+    "questionNumber": 8
+  },
+  {
+    "id": "honmen-a-9",
+    "text": "Mặc dù ngã tư phía trước bị tắc nghẽn, nhưng vì đèn của hướng đi thắng hién thị màu xanh, nên bạn vẫn tiến vào ngã tư và dừng lại. (Nếu phía trước bị tắc, dù đèn xanh cũng không được đi)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 9
+  },
+  {
+    "id": "honmen-a-10",
+    "text": "Khi lưu thông tại các ngã tư có bảng chỉ dẫn này mà không có vạch dừng thì phải dừng trước ngã tư.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-10.jpg",
+    "questionNumber": 10
+  },
+  {
+    "id": "honmen-a-11",
+    "text": "Vì biển chi dẫn này được bố tri ở phía trước các đồn cảnh sát hay trạm cứu hỏa, nên trường hợp nếu không có điều động khẩn cấp xe cứu hỏa, V.V.., thì có thể đi vào và dừng lại trong khu vực này.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 4,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-11.jpg",
+    "questionNumber": 11
+  },
+  {
+    "id": "honmen-a-12",
+    "text": "Cho du dừng xe liên tục trong thời gian dài, nhưng nếu người điều khiển vẫn ở trên xe và trong trang thái có thẻ điều khiển xe ngay lập tức thì đó không phải là đỗ xe.",
+    "answer": "SAI",
+    "explanation": "trên 5° là đỗ xe",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 12
+  },
+  {
+    "id": "honmen-a-13",
+    "text": "Phía bên phải của xe không đủ rộng 3,5 m trở lên, nhưng vì không có xe nào khác lưu thông nên đã đỗ xe.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 13
+  },
+  {
+    "id": "honmen-a-14",
+    "text": "Trước khi khởi động xe ô tô tự động, sau khi xác nhận cần số ở vị trí D thì đạp phanh và khởi động động cơ. (Cần xác nhận kéo phanh tay + cần số ở P)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 14
+  },
+  {
+    "id": "honmen-a-15",
+    "text": "Khi đến gần thanh ngang chắn tàu, còi báo động vang lên nhưng do rào chắn đường sắt mới hạ xuống hay chưa hạ xuống hết, nên vẫn đi qua.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 15
+  },
+  {
+    "id": "honmen-a-16",
+    "text": "Tại các đoạn xuống đốc dài, nên thường xuyên sử dụng phanh chân và giảm tốc độ.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 16
+  },
+  {
+    "id": "honmen-a-17",
+    "text": "Việc cần giảm tốc độ thích hợp trước khi vào góc rẽ hay khúc cua là vì xe dé bị dé ngang hoặc trượt ngang nếu xoay vô lăng ở tốc độ cao, hoặc nhắn phanh trong khi đang rẽ ở giữa khúc cua.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 5,
+    "section": "honmen-a",
+    "questionNumber": 17
+  },
+  {
+    "id": "honmen-a-18",
+    "text": "Do tai nạn xảy ra nhiều vào lúc chập choạng tối, nên cần nhanh chóng bật đèn và báo hiệu sự hiện diện của xe mình.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 18
+  },
+  {
+    "id": "honmen-a-19",
+    "text": "Khi điều khiển xe vào ban đêm, minh có thé nhìn thấy rõ người đi bộ ở khu vực phụ cận trung tâm đường nhờ đèn pha từ xe của mình và xe ô tô chạy ngược chiều.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 19
+  },
+  {
+    "id": "honmen-a-20",
+    "text": "Khi đỗ hoặc dừng xe trên đường vào ban đêm, theo nguyên tắc, cần bật đèn báo hiệu nhấp nháy khẩn cấp, đèn đỗ xe hoặc đèn hậu để cảnh báo những xe ô tô xung quanh về sự tồn tại của xe mình.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 20
+  },
+  {
+    "id": "honmen-a-21",
+    "text": "Khi điều khiển xe máy, xe gắn máy nên mặc quần áo nồi bật dé những người điều khién xe khác dễ nhìn thay.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 21
+  },
+  {
+    "id": "honmen-a-22",
+    "text": "Trường hợp xảy ra trận động dat lớn, phải sử dụng xe ô tô của mình đề sơ tán trong mọi trường hợp.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 22
+  },
+  {
+    "id": "honmen-a-23",
+    "text": "Người có giấy phép lái xe hai bánh thông thường chưa tròn 20 tuổi hoặc có giấy phép chưa tròn 3 năm thì không thé điều khiển xe hai bánh thông thường chở một người khác trên đường cao tốc.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 23
+  },
+  {
+    "id": "honmen-a-24",
+    "text": "Khi kiểm tra xe máy, xe gắn máy, cần kiểm tra xem phần phanh lửng và độ nhạy của phanh có đủ không, các bánh xe có tiếng động lạ hoặc cong vênh hay không và áp suất lốp có phù hợp không.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 24
+  },
+  {
+    "id": "honmen-a-25",
+    "text": "Khi xảy ra tai nạn giao thông, nhằm tránh tai nạn liên tiếp xảy ra và không gây cản trở các phương tiện giao thông khác, hãy di chuyền phương tiện vào lề đường hoặc khu vực trồng rồi tắt động cơ. (Có câu tương tự nhưng không được phép di chuyên phương tiện, đợi cảnh sát đến — >SAI)",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 6,
+    "section": "honmen-a",
+    "questionNumber": 25
+  },
+  {
+    "id": "honmen-a-26",
+    "text": "Xe đạp gắn động cơ thông thường (xe gắn máy hoặc xe máy điện) phải rẽ phải giống như phương pháp của xe ôtô.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-26.jpg",
+    "questionNumber": 26
+  },
+  {
+    "id": "honmen-a-27",
+    "text": "Thao tác sử dụng phanh của xe máy, xe gắn máy là nên giữ xe thăng, vừa dùng phanh động cơ vừa đồng thời nhấn phanh của bánh trước và bánh sau.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 27
+  },
+  {
+    "id": "honmen-a-28",
+    "text": "Khi cua trên đường cong bằng xe máy, xe gắn máy, nếu thân xe nghiêng thì đễ bị trượt xoay ngang do vậy sẽ an toàn nếu ngoặt tay lái sao cho không bị nghiêng xe.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 28
+  },
+  {
+    "id": "honmen-a-29",
+    "text": "Khi điều khiển xe máy, xe gắn máy có hộp số tự động -xe tay ga, cần sử dụng tay ga can thận dé tránh bị khởi động đột ngột.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 29
+  },
+  {
+    "id": "honmen-a-30",
+    "text": "Xe đạp gắn động cơ thông thường(xe gắn máy hoặc xe máy điện) rẽ phải tại các nút giao thông có biên chỉ dẫn này, phải đi vào phần giữa đường trước rồi rẽ phải bằng cách cua góc hẹp.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-30.jpg",
+    "questionNumber": 30
+  },
+  {
+    "id": "honmen-a-31",
+    "text": "Vì xe máy, xe gắn máy khi tắt động cơ và đây xe đi được coi như người đi bộ, nên có thể dắt xe hai bánh trên đường dành cho người đibộ. (Tắt động cơ xem như người đi bộ, bật động cơ (dù là dắt bộ) xem là phương tiện giao thông bình thường)",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 7,
+    "section": "honmen-a",
+    "questionNumber": 31
+  },
+  {
+    "id": "honmen-a-32",
+    "text": "Chủ sở hữu của phương tiện phải tham gia bảo hiểm bắt buộc (bảo hiểm trách nhiệm bồi thường xe ô tô hoặc bảo hiểm hỗ trợ trách nhiệm), nhưng chủ sở hữu của xe đạp gắn động cơ thông thường(xe gắn máy hoặc xe máy điện) không cần phải tham gia bảo hiểm bắt buộc.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 32
+  },
+  {
+    "id": "honmen-a-33",
+    "text": "Khi bắt buộc phải kéo xe hỏng bằng xe ô tô thông thường thì phải giữ khoảng cách an toàn giữa xe kéo và xe hỏng đó (trong vòng tầm 5m). Dam bảo nồi bằng dây thừng chắc chắn và bắt buộc phải gắn một miếng vải đỏ tầm 30cm vuông.",
+    "answer": "SAI",
+    "explanation": "vải trắng",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 33
+  },
+  {
+    "id": "honmen-a-34",
+    "text": "Tại đường có biển báo này thì xe ô tô không thê lưu thông nhưng xe đạp gắn động cơ thông thường(xe gắn máy hoặc xe máy điện) thi có thé lưu thông.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-34.jpg",
+    "questionNumber": 34
+  },
+  {
+    "id": "honmen-a-35",
+    "text": "Cả hai biên chỉ dẫn này có ý nghĩa là phía trước có rào chắn đường sắt.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-35.jpg",
+    "questionNumber": 35
+  },
+  {
+    "id": "honmen-a-36",
+    "text": "Trường hợp xe 6 tô đang chạy xe hướng ra đường hợp lưu từ phía đường như mũi tên mà đường đó có chỉ dẫn như thế này thì chỉ dẫn đó có nghĩa là đường mình đang di là đường ưu tiên.",
+    "answer": "SAI",
+    "explanation": "đường đối diện ưu tiên",
+    "page": 8,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-36.jpg",
+    "questionNumber": 36
+  },
+  {
+    "id": "honmen-a-37",
+    "text": "Nút giao thông có biển chỉ dẫn này mà đèn tín hiệu phía trước màu đỏ nhưng sau khi xác nhận không có người đi bộ qua đường nên tôi đã rẽ trái. (Cần thận nhằm với biển đường | chiều)",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-37.jpg",
+    "questionNumber": 37
+  },
+  {
+    "id": "honmen-a-38",
+    "text": "Xe máy, xe gắn máy và xe đạp gắn động cơ thông thường(xe gắn máy hoặc xe máy điện) không thé lưu thông trên đường có biển báo này.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-38.jpg",
+    "questionNumber": 38
+  },
+  {
+    "id": "honmen-a-39",
+    "text": "Biển chỉ dẫn này có ý nghĩa là những xe có tải trọng hàng hoá vượt quá 5,5 tắn không được phép lưu thông. (Chú ý: Tổng tải trọng- không phải tải trọng hàng hóa) (Mii tên đèn tín hiệu dang bat là màu xanh)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-39.jpg",
+    "questionNumber": 39
+  },
+  {
+    "id": "honmen-a-40",
+    "text": "Xe ô tô đồi diện với đèn tín hiệu này thi tạm dừng trước đèn, sau khi xác nhận an toàn thì phải rẽ phải.",
+    "answer": "SAI",
+    "explanation": "rẽ luôn không cần dừng",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-40.jpg",
+    "questionNumber": 40
+  },
+  {
+    "id": "honmen-a-41",
+    "text": "Khi lái xe không được vứt dau lọc thuốc lá, giấy vụn, lon rong, v.v... ra đường.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 41
+  },
+  {
+    "id": "honmen-a-42",
+    "text": "Trên đường có biển báo này, néu không có phương tiện chạy ngược chiều, dé vượt qua các phương tiện khác có thể lan sang phan bên phải đường.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-42.jpg",
+    "questionNumber": 42
+  },
+  {
+    "id": "honmen-a-43",
+    "text": "Vì biên báo này biểu thị có trường học, trường mẫu giáo hay đường đi học ở gần đó, do có nhiều trẻ em qua lại, nên cần phải lái xe can thận.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-43.jpg",
+    "questionNumber": 43
+  },
+  {
+    "id": "honmen-a-44",
+    "text": "Tín hiệu giao thông bằng tay của cảnh sát viên như trong hình này có ý nghĩa tương đương với đèn đỏ đối với phần giao thông theo hướng mũi tên.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-44.jpg",
+    "questionNumber": 44
+  },
+  {
+    "id": "honmen-a-45",
+    "text": "Khi lái xe ô tô thì bắt buộc phải có đầy đủ các giấy tờ kiểm định xe đang còn hiệu lực và giấy chứng nhận trách nhiệm bảo hiểm bồi thường thiệt hại xe ô tô.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 10,
+    "section": "honmen-a",
+    "questionNumber": 45
+  },
+  {
+    "id": "honmen-a-46",
+    "text": "Khi đã dùng thuốc trị cảm lạnh hoặc đau đầu có tác dụng phụ là buồn ngủ thì không lái xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 46
+  },
+  {
+    "id": "honmen-a-47",
+    "text": "Cho dù uống rượu vào đêm hôm trước nhưng do vẫn còn chịu ảnh hưởng của rượu nên cần chú ý khi lái xe vào sáng hôm sau.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 47
+  },
+  {
+    "id": "honmen-a-48",
+    "text": "Trường hợp bị cảnh sát yêu cầu xuất trình bằng lái xe khi vi phạm hoặc gây ra tai nạn giao thông, không cần phải xuất trình bằng lái xe của mình.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 48
+  },
+  {
+    "id": "honmen-a-49",
+    "text": "Người có bằng lái xe thông thường, ngoài xe ô tô thông thường, còn có thể điều khiển cả xe máy hai bánh thông thường và xe dap gan động cơ thông thường(xe gắn máy hoặc xe máy điện).",
+    "answer": "SAI",
+    "explanation": "chú ý : xe máy thông thường",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 49
+  },
+  {
+    "id": "honmen-a-50",
+    "text": "Do khởi động đột ngột, phanh gap va rẽ đột ngột trên đường tuyết có thể gây trượt, vì vậy cần hết sức cần thận khi sử dụng vô lăng và phanh.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 50
+  },
+  {
+    "id": "honmen-a-51",
+    "text": "Vào ngày mưa, khi lưu thông cạnh người người đi bộ, trường hợp làm bắn bùn lên người đi bộ, do không phòng bị nên người lái xe không phải chịu trách nhiệm.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 51
+  },
+  {
+    "id": "honmen-a-52",
+    "text": "Khi lốp xe bị thủng trong lúc đang điều khiển xe, nên giữ chắc vô lăng, có hết sức dé điều chỉnh hướng xe ô tô, đồng thời tránh phanh gấp mà nhân phanh nha phanh liên tục dé dừng lại.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 52
+  },
+  {
+    "id": "honmen-a-53",
+    "text": "Khi có nguy cơ va chạm trực diện với phương tiện chạy ngược chiều, hãy cố gắng hết mức có thé giảm mức độ va chạm bằng cách sử dụng phanh và vô lăng cho đến giây phút cuối cùng.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 11,
+    "section": "honmen-a",
+    "questionNumber": 53
+  },
+  {
+    "id": "honmen-a-54",
+    "text": "Xe máy hai bánh thông thường dưới 125 phân khối không thé lưu thông trên đường cao tốc.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 54
+  },
+  {
+    "id": "honmen-a-55",
+    "text": "Làn đường chính của đường cao tốc tại các khu vực không có phân cách theo hướng hai chiều, nếu không có chỉ dẫn như các bảng chỉ dẫn thì tốc độ tối đa sẽ giống như đường thường.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 55
+  },
+  {
+    "id": "honmen-a-56",
+    "text": "Vì đường cao tốc được trải nhựa tốt nên hàng hóa ít ngã đồ hơn so với trên đường thông thường, do đó không cần phải đề ý nhiều đến cách xếp hàng hóa.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 56
+  },
+  {
+    "id": "honmen-a-57",
+    "text": "Khi đi từ làn tăng tốc vào làn chính của đường cao tốc, dé an toàn thì nên chạy chậm lại đê đi vào làn chính.",
+    "answer": "SAI",
+    "explanation": "tăng tốc- chú ý- nhập làn",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 57
+  },
+  {
+    "id": "honmen-a-58",
+    "text": "Xe ô tô không thé đi trên tốc độ 50 km/h do kết cấu của phương tiện như xe dùng cho nông nghiệp không thể lưu thông trên đường cao tốc.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 58
+  },
+  {
+    "id": "honmen-a-59",
+    "text": "Tại làn chính của các đường cao tốc mà không có biển báo hoặc chi dẫn quy định tốc độ tối đa, tốc độ tôi da của xe ô tô chở hàng cỡ lớn là 100 km/h.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 59
+  },
+  {
+    "id": "honmen-a-60",
+    "text": "Khi bắt buộc phải đỗ xe trên đường cao tóc, bạn phải đi vào khu vực lề đường và đỗ xe về phía ngoài cùng bên trái đường.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 60
+  },
+  {
+    "id": "honmen-a-61",
+    "text": "Cần chọn loại xe máy, xe gắn máy phù hợp với vóc dáng của bản thân sao cho khi lên xe thì hai mũi chân phải chạm đất.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 12,
+    "section": "honmen-a",
+    "questionNumber": 61
+  },
+  {
+    "id": "honmen-a-62",
+    "text": "Biên chỉ dan phụ này có ý nghĩa là “bắt dau” của quy định giao thông được thê hiện trong biển chỉ dẫn chính.",
+    "answer": "SAI",
+    "explanation": "kết thúc",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-62.jpg",
+    "questionNumber": 62
+  },
+  {
+    "id": "honmen-a-63",
+    "text": "Tốc độ lưu thông không ảnh hưởng đến khoảng cách phanh hoặc lực ly tâm.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 63
+  },
+  {
+    "id": "honmen-a-64",
+    "text": "Với thiết bị giá chở hàng hóa cho xe đạp gắn động cơ thông thường (xe gắn máy hoặc xe máy điện), xe có thể chở tối đa 30kg.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 64
+  },
+  {
+    "id": "honmen-a-65",
+    "text": "Đối với xe tắc xi với giới hạn chở người là 5 người thì có thé chở khách gồm 2 người lớn, 3 trẻ em dưới 12 tuổi.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 65
+  },
+  {
+    "id": "honmen-a-66",
+    "text": "Trường hợp hàng hóa bị đồ và rơi vãi khi đang điều khiển xe, nếu don dep sẽ nguy hiểm nên dé nguyên như thế.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 66
+  },
+  {
+    "id": "honmen-a-67",
+    "text": "Với các vị trí được xác nhận là bất thường trong lần sử dụng trước, néu trong lúc lái xe không bị hỏng hóc đặc biệt thì không cần kiểm tra.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 67
+  },
+  {
+    "id": "honmen-a-68",
+    "text": "Khi chạy trên đường bị ướt do mưa, cần phải giữ khoảng cách giữa hai xe lớn hơn so với khi chạy trên đường khô ráo.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 68
+  },
+  {
+    "id": "honmen-a-69",
+    "text": "Khi tiến vào khu vực giao thông vòng xuyén, cùng với việc chạy chậm còn không được cản trở việc lưu thông của các xe đang lưu thông trong nút giao thông vòng xuyén.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 13,
+    "section": "honmen-a",
+    "questionNumber": 69
+  },
+  {
+    "id": "honmen-a-70",
+    "text": "Khi người lái xe lên hoặc xuống xe, cần kiểm tra tình hình xung quanh, đặc biệt phía sau xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 70
+  },
+  {
+    "id": "honmen-a-71",
+    "text": "Khi điều khién xe ô tô có trang bị dây an toàn, người điều khiển xe cũng như hành khách ở ghế phụ và ghế ngồi phía sau phải thắt dây an toàn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 71
+  },
+  {
+    "id": "honmen-a-72",
+    "text": "Trong lúc đợi đến giao thông, tay cầm điện thoại và do đèn giao thông đối diện đã chuyển thành đèn xanh cho nên tiếp tục gọi điện và lái xe. (Không tính trường hợp xe ô tô sử dụng các thiết bị lái tự động ).",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 72
+  },
+  {
+    "id": "honmen-a-73",
+    "text": "Khi khởi động xe ô tô, bạn cần đưa tin hiệu bằng đèn báo hướng rẽ, đồng thời phải xác nhận phía trước, phía sau, bên trái và bên phải bằng gương chiếu hậu thêm một lần nữa dé đảm bảo an toàn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 73
+  },
+  {
+    "id": "honmen-a-74",
+    "text": "Trên đường một chiều, bạn có thể lưu thông ở phía bên phải tính từ phần trung tâm của đường.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 74
+  },
+  {
+    "id": "honmen-a-75",
+    "text": "Tại các đường một chiều mà có hai làn đường thì xe ô tô lưu thông tại làn đường phía bên trái.Đúng",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 75
+  },
+  {
+    "id": "honmen-a-76",
+    "text": "Khi đang lưu thông trong ngã tư, bạn phải dừng lại ngay lập tức khi xe cứu hộ khẩn cấp đến gần.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 76
+  },
+  {
+    "id": "honmen-a-77",
+    "text": "Biển báo này có ý nghĩa là “Cấm mọi phương tiện\".",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 14,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-77.jpg",
+    "questionNumber": 77
+  },
+  {
+    "id": "honmen-a-78",
+    "text": "Tại khu vực có bién chỉ dẫn này, xe 6 tô không được lưu thông trong khu đường ray.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-78.jpg",
+    "questionNumber": 78
+  },
+  {
+    "id": "honmen-a-79",
+    "text": "Tại dải phân cách bên đường như trong hình vẽ này, khi không có người đi bộ đi lại thì xe ô tô có thể lưu thông.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-79.jpg",
+    "questionNumber": 79
+  },
+  {
+    "id": "honmen-a-80",
+    "text": "Khi người đi bộ đang băng qua trên “vạch kẻ đường cho người đi bộ”, phải dừng lại và nhường đường cho người đi bộ ở phía trước vạch kẻ đường cho người đi bộ (ở phía trước vạch dừng nếu có vạch dừng).",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 80
+  },
+  {
+    "id": "honmen-a-81",
+    "text": "Xe đạp gắn động cơ thông thường(xe gắn máy hoặc xe máy điện) không thê lưu thông vào làn đường dành riêng cho xe buýt.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 81
+  },
+  {
+    "id": "honmen-a-82",
+    "text": "Trường hợp xe ô tô chạy cắt qua đường đi bộ dé ra hoặc vào bãi đỗ xe của siêu thị thì dù có bảo vệ của siêu thị hướng dẫn thì cũng phải tạm dừng trước vạch đường dành cho người đi bộ và không làm cản trở sự đi lại của người đi bộ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 15,
+    "section": "honmen-a",
+    "questionNumber": 82
+  },
+  {
+    "id": "honmen-a-83",
+    "text": "Khi đang lái xe ô tô mà nhìn thấy xe có gắn biểu hiệu này là biển hiệu người cao tuổi đang lái xe, trừ trường hợp bắt buộc đề tránh nguy hiểm thì không được phép đi ép sát bên cạnh hay tạt đầu trước mặt xe đó.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-83.jpg",
+    "questionNumber": 83
+  },
+  {
+    "id": "honmen-a-84",
+    "text": "Khi đến gần khu vực rẽ của đường, phải chạy chậm lại.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 84
+  },
+  {
+    "id": "honmen-a-85",
+    "text": "Khi vượt xe buýt của các trường mẫu giáo đang dừng thì phải tạm dừng và xác nhận an toàn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 85
+  },
+  {
+    "id": "honmen-a-86",
+    "text": "Tại các đường tông hợp không có biên chi dẫn hay biển báo tốc độ tối da thì tốc độ tối đa cho các xe ô tô thông thường là 50k/m.",
+    "answer": "SAI",
+    "explanation": "60km/h",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 86
+  },
+  {
+    "id": "honmen-a-87",
+    "text": "Khoảng cách dừng là khoảng cách bao gồm giữa khoảng cách xe chạy tính từ lúc lái xe cảm nhận thấy nguy hiểm, nhấn phanh cho tới khi phanh có tác dụng và khoảng cách tính từ lúc phanh có tác dụng cho tới khi xe dừng han. 7 zs ì.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 87
+  },
+  {
+    "id": "honmen-a-88",
+    "text": "Cho du có bảng chỉ dẫn như hình vẽ này nhưng khi đã xác nhận an toàn thì không bam còi cũng không sao. phải bam)",
+    "answer": "SAI",
+    "explanation": "an toàn cũng",
+    "page": 16,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-88.jpg",
+    "questionNumber": 88
+  },
+  {
+    "id": "honmen-a-89",
+    "text": "Khi định dừng xe 6 tô, trừ trường hợp bat kha kháng, điều quan trọng là phanh vài lần dé báo cho xe phía sau biết rằng bạn sắp dừng lại.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 89
+  },
+  {
+    "id": "honmen-a-90",
+    "text": "Khi người lái xe ra tín hiệu như hình vẽ (nhìn từ phía sau), người lái xe đưa cánh tay ra khỏi xe, xuôi dài về phía sau, có nghĩa là tín hiệu di chậm hoặc dừng xe. (Ngoại trừ nút giao thông vòng xuyén. ) cn G2”)",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-90.jpg",
+    "questionNumber": 90
+  },
+  {
+    "id": "honmen-a-91",
+    "text": "Trong khu vực có biên chỉ dẫn này, cắm xe mô tô phân khối lớn (xe máy phân khối lớn) và xe mô tô (xe máy) không được chở hai người.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-91.jpg",
+    "questionNumber": 91
+  },
+  {
+    "id": "honmen-a-92",
+    "text": "Đường một chiều có ba làn đường lưu thông trở lên, nếu không có chỉ dẫn phân làn thì xe ô tô thông thường do có tốc độ chạy nhanh nên phải lưu thông tại làn xa nhât phía phải.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 17,
+    "section": "honmen-a",
+    "questionNumber": 92
+  },
+  {
+    "id": "honmen-a-93",
+    "text": "Khi hai xe đi vượt qua nhau ngược chiều tại khu dốc hẹp thì xe leo dốc phải nhường đường cho xe xuống dốc.",
+    "answer": "SAI",
+    "explanation": "ngược lại",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 93
+  },
+  {
+    "id": "honmen-a-94",
+    "text": "Đang lái xe trên đường một chiều, khi có xe cấp cứu tới gần thì phải đi sát bên trái đường và nhường đường .",
+    "answer": "SAI",
+    "explanation": "trái phải đều được",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 94
+  },
+  {
+    "id": "honmen-a-95",
+    "text": "Sau khi kết thúc việc rẽ phải hay trái thì phải nhanh chóng tắt đèn tín hiệu rẽ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 95
+  },
+  {
+    "id": "honmen-a-96",
+    "text": "Tại khu vực có biển chỉ dẫn này thì không thể đổi làn .",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-96.jpg",
+    "questionNumber": 96
+  },
+  {
+    "id": "honmen-a-97",
+    "text": "Làn đường leo đốc trên đường cao tốc là thiết kế dành cho các xe chạy với tốc độ chậm như xe tải chở hàng, do vậy cấm các xe oto thông thường lưu thông.",
+    "answer": "SAI",
+    "explanation": "Làn đường leo dốc tiếng nhật là Ấ#1⁄21fƒết",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 97
+  },
+  {
+    "id": "honmen-a-98",
+    "text": "Đường có biển chỉ dẫn này nếu không có người đi bộ hay xe đạp thì xe ô tô có thê được lưu thông.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-98.jpg",
+    "questionNumber": 98
+  },
+  {
+    "id": "honmen-a-99",
+    "text": "Trong thời gian đỗ xe, phiếu gửi xe phải dán ở phía trước xe | k và dán tại nơi sao cho dễ nhìn ví dụ như phía trong của kính trước xe ôtô.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 18,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-99.jpg",
+    "questionNumber": 99
+  },
+  {
+    "id": "honmen-a-100",
+    "text": "Biển chỉ dẫn này có ý nghĩa là “Khu vực cắm dừng xe”.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-100.jpg",
+    "questionNumber": 100
+  },
+  {
+    "id": "honmen-a-101",
+    "text": "Khi lưu thông tại các khu vực biển báo này thì vừa giảm tốc độ vừa lưu thông.",
+    "answer": "SAI",
+    "explanation": "fR4T chứ không phải giảm tốc độ ji",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-101.jpg",
+    "questionNumber": 101
+  },
+  {
+    "id": "honmen-a-102",
+    "text": "Khoảng cách phanh là khoảng cách tính từ lúc lái xe cảm nhận thấy nguy hiểm và nhấn phanh, từ lúc phanh ăn cho tới khi xe dừng hẳn.",
+    "answer": "SAI",
+    "explanation": "khoảng cách dừng) f#1I-HÄÍf",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 102
+  },
+  {
+    "id": "honmen-a-103",
+    "text": "Khi dừng xe ô tô, chỉ lên phanh mạnh một lần vì nếu phanh nhiều lần sẽ làm mắt khả năng phán đoán của người lái xe phía sau.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 103
+  },
+  {
+    "id": "honmen-a-104",
+    "text": "Trường hợp phanh gap đối với xe ô tô có trang bị hệ thống chống bỏ cứng phanh kiéu ABS thì cần phải nhắn phanh từ từ và chia thành nhiều lần.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 104
+  },
+  {
+    "id": "honmen-a-105",
+    "text": "Khi bị nhầm cửa ra trên đường cao tốc thì vừa chú ý xe phía sau vừa lùi xe để quay lại đường chính của đường cao tốc.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 19,
+    "section": "honmen-a",
+    "questionNumber": 105
+  },
+  {
+    "id": "honmen-a-106",
+    "text": "Khi định rẽ trái thì phải đi sát lề trái của đường nếu có thé và đi với tốc độ chậm.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 106
+  },
+  {
+    "id": "honmen-a-107",
+    "text": "Khi xảy ra tai nạn giao thông, nhằm tránh tai nạn liên tiếp xảy ra và không gây cản trở các phương tiện giao thông khác, hãy di chuyển phương tiện vào lề đường hoặc khu vực trống rồi tắt động cơ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 107
+  },
+  {
+    "id": "honmen-a-108",
+    "text": "Khi xe máy, xe gắn máy chạy trên đường bùn lầy hay đường sỏi đá thì việc quan trọng là vừa thay đổi tốc độ bằng tay ga vừa giữ thăng bằng",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 108
+  },
+  {
+    "id": "honmen-a-109",
+    "text": "Khi đỗ xe ô tô tự động, thì nhấn phanh chân, giữ nguyên như thế rồi gạt phanh tay chuyền cần gạt về P là được.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 109
+  },
+  {
+    "id": "honmen-a-110",
+    "text": "Khi có thông báo động đất khẩn cấp trong lúc lái xe, người lái xe tùy tính hình xung quanh vừa bật đèn cảnh báo nguy hiểm, sau khi báo tín hiệu chú ý cho các xe phía sau, tránh phanh gap, từ từ giảm tốc độ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 110
+  },
+  {
+    "id": "honmen-a-111",
+    "text": "Con số của mác dán tại kính trước của xe ô tô là hiển thị thời hạn kết thúc bảo hiểm trách nhiệm bồi thường thiệt hai của xe 6 tô. * + ' 1",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 111
+  },
+  {
+    "id": "honmen-a-112",
+    "text": "Ngoại trừ các trường hợp bat kha kháng như rẽ trái hay rẽ phải, hay có công trình đang thi công thì không được lưu thông tại làn đường có bién chi dan này. Vì có khả năng xe buýt tới gần từ phía sau mà đường đông không thé chuyên sang làn đường khác.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 20,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-112.jpg",
+    "questionNumber": 112
+  },
+  {
+    "id": "honmen-a-113",
+    "text": "Ngay cả trên đường đô thị có lưu lượng giao thông nhiều vào ban đêm, nên hướng đèn pha lên khi điều khiển xe.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 113
+  },
+  {
+    "id": "honmen-a-114",
+    "text": "Cho dù việc gây hại môi trường do phương tiện giao thông ít nhưng cũng nên tránh việc xuất phát đột ngột, phanh gấp hay nẹt pô không cần thiết.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 114
+  },
+  {
+    "id": "honmen-a-115",
+    "text": "Độ sáng thay đổi đột ngột sẽ làm giảm thị lực đột ngột trong chốc lát do vậy tại cửa ra vào các đường hầm giảm tốc độ khi lưu thông.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 115
+  },
+  {
+    "id": "honmen-a-116",
+    "text": "Khi nước vào trong bộ phận phanh sẽ làm phanh không có tác dụng hay tác dụng ít do vậy nên tránh đi lại tại các khu vực nước ngập sâu.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 116
+  },
+  {
+    "id": "honmen-a-117",
+    "text": "Khi lưu thông trên phần đường ở các khúc cua gấp, mà có chi dẫn như hình vẽ này, phải lan xe sang phần đường bên phải tính từ vạch phân cách trung tâm.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-117.jpg",
+    "questionNumber": 117
+  },
+  {
+    "id": "honmen-a-118",
+    "text": "Khi xảy ra tai nạn tại đường cao tốc, lấy các bị phòng chống nguy hiểm cần thiết như đặt các thiết bị báo dừng xe thì không được ở lại trong xe mà phải đi tránh nạn nơi an toàn. ————————eS",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 21,
+    "section": "honmen-a",
+    "questionNumber": 118
+  },
+  {
+    "id": "honmen-a-119",
+    "text": "Biển chỉ dẫn này có ý nghĩa là quy định khu vực đỗ xe trên đường và các xe được đỗ trong một khoảng thời gian nhất định và không được đỗ xe vượt quá thời gian quy định.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-119.jpg",
+    "questionNumber": 119
+  },
+  {
+    "id": "honmen-a-120",
+    "text": "Biển chi dẫn này có ý nghĩa là “ khu vực an toan” .",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-120.jpg",
+    "questionNumber": 120
+  },
+  {
+    "id": "honmen-a-121",
+    "text": "Do khi lái xe ở tốc độ cao thì lốp sẽ bị gia tăng nhiệt do vậy trước khi chạy xe lên cao tốc thì nên giảm áp suất không khí trong lốp xe. / ~ au",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 121
+  },
+  {
+    "id": "honmen-a-122",
+    "text": "Khi rẽ phải ở ngã tư có bảng chỉ dẫn này không phải đi chậm .",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 22,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-122.jpg",
+    "questionNumber": 122
+  },
+  {
+    "id": "honmen-a-123",
+    "text": "Khi đang chạy xe mà bị nỗ lốp, xe sẽ bị lạc theo hưởng mà minh không mong muốn và gây nguy hiểm, do vậy can nắm chắc tay lái, phanh gấp và nhanh chóng dừng xe .",
+    "answer": "SAI",
+    "explanation": "tránh phanh gap",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 123
+  },
+  {
+    "id": "honmen-a-124",
+    "text": "Khi có nguy cơ đâm trực diện với xe đối diện, thì có gắng tránh tối đa sang bên trái, kể cả ngay khi trước khoảnh khắc đâm cũng cố gắng bẻ lái hay nhân phanh. Nếu phía ngoài đường lộ không có nguy hiểm thì chạy ra khỏi đường lộ cũng không sao. h",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 124
+  },
+  {
+    "id": "honmen-a-125",
+    "text": "Khi đi vào các đường chính của đường cao tốc, không quan tâm có xe đang chạy trên đường chính hay không, cứ chạy theo phương pháp đúng như mũi tên là chính xác. từ tiếng Nhật [C2 b F ). (Đề thi luôn có)",
+    "answer": "ĐÚNG",
+    "explanation": "chú ý câu này - có từ không quan tâm nhưng đúng. Được dịch",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-125.jpg",
+    "questionNumber": 125
+  },
+  {
+    "id": "honmen-a-126",
+    "text": "Hiện tượng xe trượt nước là dầu phanh sinh ra bọt khí và làm cho phanh không có tác dụng.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 126
+  },
+  {
+    "id": "honmen-a-127",
+    "text": "Xe đạp gắn động cơ thông thường (xe gắn máy hoặc xe máy điện) thì không cần dùng mũ bảo hiểm.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 127
+  },
+  {
+    "id": "honmen-a-128",
+    "text": "Vì biển báo này được biểu thị có trường học , trường mẫu giáo hay đường đi học gân đó , do có nhiều trẻ em qua lại , nên cần phải cân thận khi lái xe.",
+    "answer": "SAI",
+    "explanation": "ili Ai",
+    "page": 23,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-128.jpg",
+    "questionNumber": 128
+  },
+  {
+    "id": "honmen-a-129",
+    "text": "Do khởi động đột ngột, phanh gấp và rẽ đột ngột trên đường tuyết có thé gây trượt , vì vậy hết sức cần thận khi sử dụng vô lăng và phanh.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 129
+  },
+  {
+    "id": "honmen-a-130",
+    "text": "(Đèn tín hiệu màu vàng đang bật sáng) Khi đi qua ngã tư có đèn vàng nhấp nháy thì ô tô và xe điện mặt đất phải dừng lại, xác nhận an toàn . (chỉ cần chú ý- không cần dừng/ đèn đỏ nhấp nháy mới dừng)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-130.jpg",
+    "questionNumber": 130
+  },
+  {
+    "id": "honmen-a-131",
+    "text": "Khi vượt qua bên cạnh những người đi bộ tàn tật như người sử dụng trắng hay nạng vàng thì phải tạm dừng hoặc đi chậm",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 131
+  },
+  {
+    "id": "honmen-a-132",
+    "text": "Biển chỉ dẫn này có ý nghĩa là phía trước có nút giao thông vòng xuyên.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-132.jpg",
+    "questionNumber": 132
+  },
+  {
+    "id": "honmen-a-133",
+    "text": "( Mũi tên đèn tín hiệu đang bật là màu xanh ) Khi xe ô tô rẽ phải ở ngã tư đối diện với đèn tín hiệu này trọng lúc đợi mũi tên đèn tín hiệu bên phải bật sáng thì phải tiến trung tâm của ngã tư và dừng đợi ở đó.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 24,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-133.jpg",
+    "questionNumber": 133
+  },
+  {
+    "id": "honmen-a-134",
+    "text": "Khi xảy ra tai nạn, việc giữ nguyên hiện trường là quan trọng cho nên dù có cản trở việc lưu thông của các phương tiện khác cũng không được di chuyển xe và phải đợi cảnh sát tới giải quyết.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 134
+  },
+  {
+    "id": "honmen-a-135",
+    "text": "Khi dừng xe trên đường lên dốc sát với xe phía trước, xe phía trước có khả năng lùi về phía sau nên không đỗ xe quá gần với xe phía trước.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 135
+  },
+  {
+    "id": "honmen-a-136",
+    "text": "Trên đường có biên bao này, cam đỗ xe nhưng không cam dừng xe. —=Ø@",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-136.jpg",
+    "questionNumber": 136
+  },
+  {
+    "id": "honmen-a-137",
+    "text": "Cả 2 biên chỉ dẫn phụ này có ý nghĩa giống nhau.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-137.jpg",
+    "questionNumber": 137
+  },
+  {
+    "id": "honmen-a-138",
+    "text": "Xe máy, xe gắn máy do tính năng gia tốc ưu việt nên có lợi thế khi cua vòng nhỏ, do vậy cho dù khi xe phía trước định đồi làn dé rẽ phải thì van có thê vượt được.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 138
+  },
+  {
+    "id": "honmen-a-139",
+    "text": "Bt Ý nghĩa tin hiệu giao thông bằng tay của cảnh sát viên khi dé thang cánh tay ngang bằng vai như hình vẽ này thì đối với giao thông mũi tên giống như tín hiệu đèn vàng.",
+    "answer": "SAI",
+    "explanation": "đèn xanh",
+    "page": 25,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-139.jpg",
+    "questionNumber": 139
+  },
+  {
+    "id": "honmen-a-140",
+    "text": ".—\" Trong trường hợp như hình vẽ, trường hợp xe thông thường ( xe A) kéo xe thông thường bị hỏng ( xe B) bằng dây thừng thì không cần giấy phép xe kéo.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-140.jpg",
+    "questionNumber": 140
+  },
+  {
+    "id": "honmen-a-141",
+    "text": "Các giấy tờ kiểm định xe và giấy bảo hiểm trách nhiệm bồi thường thiệt hại xe cộ cất giữ tại nhà, khi lái cần mang theo bản photo là được.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 141
+  },
+  {
+    "id": "honmen-a-142",
+    "text": "Đối với áp suất lốp xe , nên kiểm tra có đủ hơi hay không bằng cách độ võng tiếp xúc bánh xe đối vs mặt đường .",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 142
+  },
+  {
+    "id": "honmen-a-143",
+    "text": "Tai làn chính của các đường cao tóc mà không có biên báo hoặc chỉ dẫn quy định tốc độ tối đa, tốc độ tối đa của oto thông thường và các phương tiện khác là 80km/h.",
+    "answer": "SAI",
+    "explanation": "60km/h",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 143
+  },
+  {
+    "id": "honmen-a-144",
+    "text": "Khi đi đến đường có vạch kẻ đường cho người đi bộ, người đi bộ có ý định băng qua đường nhưng phát hiện thấy xe của bạn đang tiến đến nên người đi bộ lùi lại nên bạn đã bam còi chú ý rồi đi qua bằng cách đi chậm.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 26,
+    "section": "honmen-a",
+    "questionNumber": 144
+  },
+  {
+    "id": "honmen-a-145",
+    "text": "Khi điều khiển xe 2 bánh đi qua vũng bùn hoặc nước trong lúc đi qua bạn phải lùi về số thấp thay đổi tốc độ chậm hơn dé an toàn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 145
+  },
+  {
+    "id": "honmen-a-146",
+    "text": "Khi kiêm tra dầu động cơ bằng đồng hồ đo dầu thì đầu không dính là tốt.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 146
+  },
+  {
+    "id": "honmen-a-147",
+    "text": "Dây đai quạt hoạt động tốt là khi kiểm tra bằng tay dây đai quạt hơi ching là tốt.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 147
+  },
+  {
+    "id": "honmen-a-148",
+    "text": "Khi chất hàng hóa lên thùng xe của xe máy 2 bánh cỡ lớn hoặc xe máy 2 bánh thông thường, có thé chat hàng hòa nhô ra tối đa 50cm từ phía sau thùng xe.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 148
+  },
+  {
+    "id": "honmen-a-149",
+    "text": "Khi nhân chân ga cảm giác thấy nhẹ thì có khả năng bị ri dau phanh.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 149
+  },
+  {
+    "id": "honmen-a-150",
+    "text": "Tại các đường tổng hợp không có biên chi dẫn hay biển báo tốc độ tối đa thì tốc độ tối đa cho các xe oto thông thường là 50km/h. (60km/h)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 150
+  },
+  {
+    "id": "honmen-a-151",
+    "text": "Đối với xe 6 tô thông thường với giới hạn chở người là Š người thì ngoài lái xe có thé chở được 3 người lớn, 3 trẻ em dưới 12 tuổi. (chú ý xem có tính tài xế chưa)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 151
+  },
+  {
+    "id": "honmen-a-152",
+    "text": "Đối với phanh của xe máy, xe gắn máy, cần phanh cần phải có phạm vi xoay chuyền. (Phạm vi xoay chuyền của cần phanh: là khoảng bóp phanh cho đến khi phanh hoạt động. Sau khi bóp phanh vượt quá phạm vi xoay chuyền thì phanh mới có tác dụng. Nếu không có phạm vi xoay chuyên của cần phanh thì dùng phanh sẽ có tác dụng ngay lập tức và sẽ gây nguy hiểm do phanh gấp ) .Dúng (phạm vi đi chuyển- tiếng nhật là # )",
+    "answer": "ĐÚNG",
+    "explanation": "Phạm vi xoay chuyển của cần phanh là khoảng bóp phanh cho đến khi phanh hoạt động.",
+    "page": 27,
+    "section": "honmen-a",
+    "questionNumber": 152
+  },
+  {
+    "id": "honmen-a-153",
+    "text": "Khi lưu thông tại đường có biển báo này nếu có xe điện đến từ phía sau các phương tiên phải thoát ra hoặc giữ khoảng cách an toàn.",
+    "answer": "ĐÚNG",
+    "explanation": "nếu giữ khoảng cách an toàn vẫn chạy bình thường).",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-153.jpg",
+    "questionNumber": 153
+  },
+  {
+    "id": "honmen-a-154",
+    "text": "Chiều cao của hàng hóa trên xe máy 2 bánh hoặc xe gắn máy dưới 50cc không quá 2m tính từ mặt đất.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 154
+  },
+  {
+    "id": "honmen-a-155",
+    "text": "Xe ô tô mà có bề rộng vượt quá bề rộng ghi trong biển báo này thì không được lưu thông.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 27,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-155.jpg",
+    "questionNumber": 155
+  },
+  {
+    "id": "honmen-a-156",
+    "text": "Khi xe máy để nguyên động cơ đang chạy và xuống dắt bộ thì không được tính như người đi bộ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 28,
+    "section": "honmen-a",
+    "questionNumber": 156
+  },
+  {
+    "id": "honmen-a-157",
+    "text": "Với những người lấy bằng xe máy thông thường chưa được 1 năm nhưng lấy được bằng xe máy cỡ lớn thống thường thì có thể điều khiển xe máy đèo 2 người.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 157
+  },
+  {
+    "id": "honmen-a-158",
+    "text": "Xe A như hình vẽ có thê tiến theo lộ trình như mũi tên và rẽ phải ở ngã tư.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-158.jpg",
+    "questionNumber": 158
+  },
+  {
+    "id": "honmen-a-159",
+    "text": "3® Đối với xe gắn máy dưới 50cc như trong hình vẽ thì lực li tâm hoạt động theo hướng A.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-159.jpg",
+    "questionNumber": 159
+  },
+  {
+    "id": "honmen-a-160",
+    "text": "Khi lưu thông trên cao tốc hay lay vạch trắng bên trái làm cư li di chuyền do đó đi lệch 1 chút về phía bên trái .",
+    "answer": "ĐÚNG",
+    "explanation": "chú ý câu này — nhiều bạn không để ý vào đề thi sẽ phân vân ).",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 160
+  },
+  {
+    "id": "honmen-a-161",
+    "text": "Khi đi trên đường có nhiều tuyết nếu đi vào vét xe trước thi dé trơn trượt do đó không nên đi vào vết xe trước .",
+    "answer": "SAI",
+    "explanation": "nên đi vào vết xe trước",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 161
+  },
+  {
+    "id": "honmen-a-162",
+    "text": "Khi đi vào khúc cua hẹp xe đối diện có khả năng lắn làn do đó nên đi sát về phía bên lề trái.",
+    "answer": "SAI",
+    "explanation": "giảm toc độ, không đi quá sát lề",
+    "page": 29,
+    "section": "honmen-a",
+    "questionNumber": 162
+  },
+  {
+    "id": "honmen-a-163",
+    "text": "Khi lái xe ở tốc độ cao thị lực kém đi đặc biệt khó nhìn rõ mọi vật ở cự ly xa. |",
+    "answer": "SAI",
+    "explanation": "khó nhìn rõ mọi vật ở cự ly gần",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 163
+  },
+  {
+    "id": "honmen-a-164",
+    "text": "Khi điều khiển xe ô tô có trang bị day an toàn, người điều khiển xe cũng như hành khách ở ghế phụ và ghế ngồi phía sau phải thắt dây an toàn và không cần khóa cửa xe.",
+    "answer": "SAI",
+    "explanation": "can khóa cửa xe",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 164
+  },
+  {
+    "id": "honmen-a-165",
+    "text": "Khi vượt xe buýt của các trường mẫu giáo đang dừng thì phải đi chậm và vượt qua bên hông.",
+    "answer": "SAI",
+    "explanation": "tạm dừng, quan sát",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 165
+  },
+  {
+    "id": "honmen-a-166",
+    "text": "Khi bánh sau bắt đầu trượt sang phải đầu tiên cần đánh vô lăng sang trái và phanh ngay lập tức .Sai (Trượt hướng nào, đánh lái sang hướng đó).",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 166
+  },
+  {
+    "id": "honmen-a-167",
+    "text": "Nếu bị đèn của xe ngược chiều chiếu trực tiếp vào mắt thì rất nguy hiểm vì thị lực của mắt sẽ bị giảm trong chốc lát nên bạn có gắng không nhìn trực diện hoặc có gang nhìn thăng vào đèn của xe phía trước.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 167
+  },
+  {
+    "id": "honmen-a-168",
+    "text": "Trong ham dù có vạch phân làn đường bạn cũng không được phép vượt qua. (có phân làn, được vượt)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 30,
+    "section": "honmen-a",
+    "questionNumber": 168
+  },
+  {
+    "id": "honmen-a-169",
+    "text": "Khi xảy ra tai nạn bạn cần gọi xe cấp cưu giúp người bị thương còn việc khai báo tường trình với cảnh sát thuộc về bên có lỗi lớn hơn.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 169
+  },
+  {
+    "id": "honmen-a-170",
+    "text": "Khi đi lên đốc hẹp xe lên dốc phải nhường cho xe xuống dốc. (Xe xuống dốc nhường cho xe lên dốc)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 170
+  },
+  {
+    "id": "honmen-a-171",
+    "text": "F Khi lưu thông tại các ngã tư có bảng chỉ dẫn này mà không có vạch dừng thì phải dừng trước biển này. (Chú ý : đừng trước ngã tư- không phải dừng trước biển)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-171.jpg",
+    "questionNumber": 171
+  },
+  {
+    "id": "honmen-a-172",
+    "text": "Nếu người có giấy phép lái xe nhưng bị đình chỉ lái xe, trong thời gian bị đình chỉ vì không có giấy phép trên tay nên họ sẽ bị coi là là không mang theo giấy phép lái xe.",
+    "answer": "SAI",
+    "explanation": "lỗi lái xe không có bằng lái",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 172
+  },
+  {
+    "id": "honmen-a-173",
+    "text": "Biển báo này là “khu vực dành cho người đi bộ”.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-173.jpg",
+    "questionNumber": 173
+  },
+  {
+    "id": "honmen-a-174",
+    "text": "Khi bị chóa mắt bởi đèn xe đối diện, bạn nhắm mắt lại dé bớt chóa.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 31,
+    "section": "honmen-a",
+    "questionNumber": 174
+  },
+  {
+    "id": "honmen-a-175",
+    "text": "Phương tiện sử dụng gia đình nếu có kiểm định định kì thì không cần kiêm tra hằng ngày.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 175
+  },
+  {
+    "id": "honmen-a-176",
+    "text": "Ở đường núi khi vào khúc cua, xe đối diện có khả năng 1an sang làn đối diện, nên bạn lái xe sát mép trái nhất có thé. (ở đường núi và đường tàu (#U)) tránh chạy sắt mép đường bên trái)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 176
+  },
+  {
+    "id": "honmen-a-177",
+    "text": "Có thể vượt xe phía tước trên đường dốc lên dốc nếu trong tốc độ cho phép.",
+    "answer": "SAI",
+    "explanation": "lên đốc cảm vượt đù tốc cho phép",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 177
+  },
+  {
+    "id": "honmen-a-178",
+    "text": "Khi lên xuống xe nên mở hé cửa kiểm tra xác nhận an toàn, nếu an toàn thì mới mở hết cửa. Nếu khu vực đông người, xe cộ thì nên lên xuống phía bên trái.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 178
+  },
+  {
+    "id": "honmen-a-179",
+    "text": "Tại ngã tư, đèn giao thông của đường giao nhau đã chuyên sang màu đỏ, nên đèn tín hiệu cho làn đường của mình chắc chắn là màu xanh, vì vậy không cần chú ý đến đèn và di chuyền. be",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 179
+  },
+  {
+    "id": "honmen-a-180",
+    "text": "Khu vực có biên báo nay cam đỗ xe từ 8-20h.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-180.jpg",
+    "questionNumber": 180
+  },
+  {
+    "id": "honmen-a-181",
+    "text": "Trên đường cao tốc — tốc độ tối đa của xe tải chở hàng hóa cỡ lớn và xe chở khách cỡ lớn là đều 100km/h.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 32,
+    "section": "honmen-a",
+    "questionNumber": 181
+  },
+  {
+    "id": "honmen-a-182",
+    "text": "Trên đường cao tóc, khi buồn ngủ ban tấp vào lề và nghỉ ngơi.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 182
+  },
+  {
+    "id": "honmen-a-183",
+    "text": "Ghế lái của xe oto cỡ lớn, cỡ trung bình cao hơn so với xe oto thông thường, mang lại tầm nhìn tốt hơn, do đó khoảng cách giữa các xe có thê ngắn hơn so với xe oto thông thường.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 183
+  },
+  {
+    "id": "honmen-a-184",
+    "text": "Tốc độ an toàn là tốc độ bằng | nửa tốc độ cho phép.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 184
+  },
+  {
+    "id": "honmen-a-185",
+    "text": "Nếu đã đi chậm, thì dù nước từ vũng nước bắn vào người đi bộ cũng không phải lỗi của người lái xe.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "questionNumber": 185
+  },
+  {
+    "id": "honmen-a-186",
+    "text": "= Bién báo này được đặt tại lối ra của đường một chiều, phương tiện không được đi vào từ hướng có bién báo. xi 3ö 3k ‡k dc dk fe 3K dc fe fe k đc 2k ik sk dc dc dc ofc 2k dc ‡k dị 3k dc đc fe cặc đc 2k s ofc oie 2k sk oie ofc dc 2k ofc 3k ofc dc a ofc dc 2 2c ok sk 2 dc 2k ức",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-a",
+    "image": "assets/honmen/questions/honmen-a-186.jpg",
+    "questionNumber": 186
+  },
+  {
+    "id": "honmen-b-1",
+    "text": "Biển tốc độ cám vượt quá 50km/h nhưng nếu thấy không có xe lưu thông hoặc lượng xe ít có thé vượt quá tốc độ quy định trên.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-187.jpg",
+    "questionNumber": 187
+  },
+  {
+    "id": "honmen-b-2",
+    "text": "Khi lưu thông trên đường, mình tuân thủ luật lệ giao thông là được. Không cần quan tâm tới việc chú ý khi lưu thông sao cho những người khác có thể lưu thông an toàn. ——ỄễŠšềa Biển báo này ở phía trước giao lộ cho biết đường bạn đang đi là đường ưu tiên.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 33,
+    "section": "honmen-b",
+    "questionNumber": 188
+  },
+  {
+    "id": "honmen-b-3",
+    "text": "Biển báo này ở phía trước giao lộ cho biết đường bạn đang đi là đường ưu tiên.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 33,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-189.jpg",
+    "questionNumber": 189
+  },
+  {
+    "id": "honmen-b-4",
+    "text": "Ô tô và xe điện mặt đất gặp tín hiệu này tạm thời dừng ở trước vạch dừng và có thê đi tiếp sau khi đảm bảo an toàn. Xe oto khi đối diện với tín hiệu đèn giao thông này phải tạm thời dừng lại",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-190.jpg",
+    "questionNumber": 190
+  },
+  {
+    "id": "honmen-b-5",
+    "text": "ngay trước ngã tư và sau khi xác nhận an toàn thì rẽ phải.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-191.jpg",
+    "questionNumber": 191
+  },
+  {
+    "id": "honmen-b-6",
+    "text": "Biển báo này cho biết ngay cả khi đèn giao thông phía trước có màu đỏ hoặc vàng, oto và xe đạp gắn máy vẫn có thé rẽ trái nhưng phải chú ý người đi bộ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-192.jpg",
+    "questionNumber": 192
+  },
+  {
+    "id": "honmen-b-7",
+    "text": ": Biển nay có ý nghĩa báo hiệu đường có khúc cua nguy hiểm.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-193.jpg",
+    "questionNumber": 193
+  },
+  {
+    "id": "honmen-b-8",
+    "text": "Xe oto đối điện với tín hiệu đèn giao thông này có thể tiếp tục di chuyển về phía trước nếu không thẻ dừng an toàn ở vị trí dừng.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-194.jpg",
+    "questionNumber": 194
+  },
+  {
+    "id": "honmen-b-9",
+    "text": "Biển báo này được đặt ở lối ra của đường một chiều và cho biết các phương tiện được cấm đi vào.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-195.jpg",
+    "questionNumber": 195
+  },
+  {
+    "id": "honmen-b-10",
+    "text": "Cảnh sát do 2 tay lên thang, xe đối diện với cảnh sát là đồng nghĩa với tín hiệu đèn đỏ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 35,
+    "section": "honmen-b",
+    "questionNumber": 196
+  },
+  {
+    "id": "honmen-b-11",
+    "text": "Ngay cả khi bạn đang ở nơi có biển báo này, nếu ở ngã tư tầm nhìn tốt, không có xe ô tô đi qua thì bạn vẫn có thê đi tiếp mà không cần phải dừng lại tạm thời. (phải tạm dừng, dù an toàn) _#+#h: Ẩ STOP",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-197.jpg",
+    "questionNumber": 197
+  },
+  {
+    "id": "honmen-b-12",
+    "text": "Tin hiệu đèn giao thông màu đó nhưng có cảnh sát giao thông điều khiến hiệu lệnh khác thì bạn phải theo hiệu lệnh đó.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 198
+  },
+  {
+    "id": "honmen-b-13",
+    "text": "Dù uống một chút rượu cũng không được lái xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 199
+  },
+  {
+    "id": "honmen-b-14",
+    "text": "Khi bạn bị cảnh sát yêu cầu kiểm tra giấy tờ khi ban vi phạm và gây tai nan thi không cần phải xuất trình giấy tờ xe.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 200
+  },
+  {
+    "id": "honmen-b-15",
+    "text": "Người có bằng loại 2 thì có thé day lái ngoài đường mà không cần quan tâm đến số năm kinh nghiệm.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 201
+  },
+  {
+    "id": "honmen-b-16",
+    "text": "Thiết bị chỉ đường bạn không được nhìn vào đó liên tục vì gây nguy hiểm ảnh hưởng đến việc quan sát phía trước.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 202
+  },
+  {
+    "id": "honmen-b-17",
+    "text": "Cả người lái xe và người ngồi phía sau xe, khi xuống xe đều phải chú ý cần thận.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 203
+  },
+  {
+    "id": "honmen-b-18",
+    "text": "Khi trên đường không có biền báo tốc độ, thì xe oto có thể chạy với vận tốc dưới 60km/h.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 204
+  },
+  {
+    "id": "honmen-b-19",
+    "text": "Người ngồi lái và người ngồi cạnh người lái phải that day an toàn còn người ngồi sau thì không cần.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 205
+  },
+  {
+    "id": "honmen-b-20",
+    "text": "Tốc độ an toàn là tốc độ khi bạn đi với vận tốc bằng một nửa vận tốc trên biên.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 206
+  },
+  {
+    "id": "honmen-b-21",
+    "text": "Tại đường 1 chiều có thé lưu thông sang bên phải tính từ vạch trung tâm.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 207
+  },
+  {
+    "id": "honmen-b-22",
+    "text": "Tốc độ tối đa với oto chở khách thông thường trên đường công cộng không có biển báo, vạch kẻ quy định thì không được vượt quá 60km/h.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 208
+  },
+  {
+    "id": "honmen-b-23",
+    "text": "l§ Xe làn A có thê chuyên sang lan B.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-209.jpg",
+    "questionNumber": 209
+  },
+  {
+    "id": "honmen-b-24",
+    "text": "Biển báo này chỉ thị khu vực bắt buộc phải bam còi. A DA N & ` ` A i",
+    "answer": "ĐÚNG",
+    "explanation": "dù an toàn vẫn phải bắm",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-210.jpg",
+    "questionNumber": 210
+  },
+  {
+    "id": "honmen-b-25",
+    "text": "Khi rẽ trái đánh lái xong rồi bật xin nhan.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 211
+  },
+  {
+    "id": "honmen-b-26",
+    "text": "Cho dù đã được chỉ dẫn về khu vực cấm ở phía trước đồn cảnh sát, trạm cứu hoả vv.. nhưng đó chỉ là chỉ dẫn trong lúc khẩn cấp nên nếu không phải tình huống khẩn câp thì cũng có thể đi vào khu vực được chỉ dẫn và đừng lại.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 37,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-212.jpg",
+    "questionNumber": 212
+  },
+  {
+    "id": "honmen-b-27",
+    "text": "Xe oto rẽ phải tại giao lộ có biên báo này, nếu đi theo hướng mũi tên thì dù có xe đối diện đến vẫn có thể ưu tiên đi trước mà không cần nhường.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-213.jpg",
+    "questionNumber": 213
+  },
+  {
+    "id": "honmen-b-28",
+    "text": "Tại đường dốc khúc cua và ngã tư tầm nhìn khó bạn không được vượt xe oto khác và xe đạp gắn động cơ (xe 50cc).",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 214
+  },
+  {
+    "id": "honmen-b-29",
+    "text": "Phần đường dành riêng cho xe buýt bạn đang đi trong phần đường đó thấy xe buýt đi phía sau bạn tăng tốc và vẫn đi trong làn đường đó.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 215
+  },
+  {
+    "id": "honmen-b-30",
+    "text": "Xe tự động khi xác nhận cài số ở D thì đạp phanh xe đề khởi động.",
+    "answer": "SAI",
+    "explanation": "cài cần gạt về ví trí P, kéo phanh tay",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 216
+  },
+  {
+    "id": "honmen-b-31",
+    "text": "Nếu thấy phía trước ngã 4 có khả năng ùn tắc đường thì đèn tín hiệu giao thông có là xanh cũng không được đi vào ngã tư.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 217
+  },
+  {
+    "id": "honmen-b-32",
+    "text": ": Vi biển báo này biểu thị có trường học, trường mẫu giáo hay đường đi học gần đó, do có nhiều trẻ em qua lại, nên cần phải lái xe can thận.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 38,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-218.jpg",
+    "questionNumber": 218
+  },
+  {
+    "id": "honmen-b-33",
+    "text": "Tại ngã tư không có vạch sang đường cho người đi bộ hoặc gần khu vực đó có người đi bộ băng qua đường,thì phải di chậm và dừng lại không được cản trở họ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 219
+  },
+  {
+    "id": "honmen-b-34",
+    "text": "Khi sử dụng ghế trẻ em phải chọn loại ghế phù hợp với vóc dáng của trẻ, có thê cô định chắc chắn vào ghế theo hướng dẫn sử dụng.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 220
+  },
+  {
+    "id": "honmen-b-35",
+    "text": "Không được vượt xe phía trước khi xe phía sau đang tăng tốc vượt bạn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 221
+  },
+  {
+    "id": "honmen-b-36",
+    "text": "Xe buýt, xe đạp gắn máy, xe cơ giới loại nhỏ, xe hạng nhẹ được phép lưu thông trên làn đường dành riêng có biên báo hiệu này, các xe khác không được lưu thông. mo SH",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-222.jpg",
+    "questionNumber": 222
+  },
+  {
+    "id": "honmen-b-37",
+    "text": "Bằng lái xe phô thông được phép lái xe 10 chỗ đồ lại.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 223
+  },
+  {
+    "id": "honmen-b-38",
+    "text": "Lái xe khi say rượu là vấn đề do chính người lái xe nhận thức và bên thứ ba sẽ không chịu trách nhiệm pháp lý ngay cả khi bên thứ ba cung cấp hoặc giới thiệu rượu cho người đang có gắng lái xe.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 224
+  },
+  {
+    "id": "honmen-b-39",
+    "text": "Đường có biên báo này là đường ưu tiên với đường giao nhau phía trước.",
+    "answer": "SAI",
+    "explanation": "đường phía trước ưu tiên",
+    "page": 39,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-225.jpg",
+    "questionNumber": 225
+  },
+  {
+    "id": "honmen-b-40",
+    "text": "Khi đi qua vũng nước có người đi bộ đang đi, dù đi chậm giảm tốc độ mà vẫn bắn nước lên người đi bộ thì không cần phải chịu trách nhiệm.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 226
+  },
+  {
+    "id": "honmen-b-41",
+    "text": "Tín hiệu đèn đỏ nhấp nháy phương tiện bắt buộc phải dừng lại quan sát an toàn rồi mới được đi.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 227
+  },
+  {
+    "id": "honmen-b-42",
+    "text": "Khi đi qua người đi bộ nếu không giữ được khoảng cách an toàn thì phải đi chậm.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 228
+  },
+  {
+    "id": "honmen-b-43",
+    "text": "Vì bằng lái xe tạm thời quan trọng, nên phải để ở nhà. Khi đi tập lái chỉ cần mang bản photo cũng không sao.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 229
+  },
+  {
+    "id": "honmen-b-44",
+    "text": "Khi trên đường có vạch liền màu vàng thì ta có thé lấn sang vạch này và vượt lên xe trước.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 230
+  },
+  {
+    "id": "honmen-b-45",
+    "text": "Khi xe sau muốn vượt nhưng do không đủ khoảng cách, thì ta phải ép vào lề bên trái hết mức và nhường đường.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 231
+  },
+  {
+    "id": "honmen-b-46",
+    "text": "Trường hợp đang lưu thông trên đường ưu tiên của xe buýt,thấy phía sau xe buýt đang tiến đến mà do phía trước bị tắc nghẽn nên vẫn lưu thông ở làn đấy.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 232
+  },
+  {
+    "id": "honmen-b-47",
+    "text": "Khi phanh gấp vì được trang bị bó phanh ABS nên cần giam mạnh phanh 1 mạch, không nên giẫm liên tục vì sẽ mất hiệu quả của phanh.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 233
+  },
+  {
+    "id": "honmen-b-48",
+    "text": "Khi chạy qua khu vực an toàn có người đi bộ, phải chạy chậm lai.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 234
+  },
+  {
+    "id": "honmen-b-49",
+    "text": "Xe bạn đang di chuyên ở ngã tu, vì thay xe cấp cứu tiến lại nên bạn đã dừng xe ngay lập tức ở giữa ngã tư.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 40,
+    "section": "honmen-b",
+    "questionNumber": 235
+  },
+  {
+    "id": "honmen-b-50",
+    "text": "Khi rẽ phải thì di chuyển hết sang bên trái để rẽ phải dễ dàng hơn.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 236
+  },
+  {
+    "id": "honmen-b-51",
+    "text": "© Các phương tiện đối diện với tín hiệu đèn có mũi tên xanh thì được phép rẽ phải.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-237.jpg",
+    "questionNumber": 237
+  },
+  {
+    "id": "honmen-b-52",
+    "text": "Biển này cấm vượt nhưng thấy lượng xe ít thì có thé lan sang làn bên phải để vượt.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-238.jpg",
+    "questionNumber": 238
+  },
+  {
+    "id": "honmen-b-53",
+    "text": "I Tại đường có biên chi dẫn này với vạch kẻ ở trung tâm, cam lưu thông lan qua làn đường bên phải để vượt phương tiện khác.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-239.jpg",
+    "questionNumber": 239
+  },
+  {
+    "id": "honmen-b-54",
+    "text": "Ls | ñ Biển này báo hiệu đường giao nhau phía trước là đường ưu tiên.",
+    "answer": "SAI",
+    "explanation": "đường mình đang đi là đường ưu tiên",
+    "page": 41,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-240.jpg",
+    "questionNumber": 240
+  },
+  {
+    "id": "honmen-b-55",
+    "text": "Khi lưu thông trên đường có tín hiệu của cảnh sát viên hướng dẫn thì phải theo hướng dẫn đó.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 241
+  },
+  {
+    "id": "honmen-b-56",
+    "text": "Gần đỉnh dốc đi xuống hoặc dốc lên, bạn có thể vượt xe đạp gắn động cơ (xe 50cc).",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 242
+  },
+  {
+    "id": "honmen-b-57",
+    "text": "` Biển báo này là biên báo cam đỗ.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-243.jpg",
+    "questionNumber": 243
+  },
+  {
+    "id": "honmen-b-58",
+    "text": "Không được yêu cầu người không có bang lái hoặc đã uống bia rượu lái xe. AAAAN EB :",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 244
+  },
+  {
+    "id": "honmen-b-59",
+    "text": "Biên chi dân này có ý nghĩa là “ khu vực cam dừng xe”.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-245.jpg",
+    "questionNumber": 245
+  },
+  {
+    "id": "honmen-b-60",
+    "text": "Biển báo có này có ý nghĩa là cam xe có trong tải hàng hoá quá 5,5t .",
+    "answer": "SAI",
+    "explanation": "tông tải trọng",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-246.jpg",
+    "questionNumber": 246
+  },
+  {
+    "id": "honmen-b-61",
+    "text": "Khi có bằng lái xe oto thông thường có thé lái được xe gắn động cơ dưới 50cc .",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 247
+  },
+  {
+    "id": "honmen-b-62",
+    "text": "Mặc dù đã uống rượu vào tối hôm trước nhưng sáng hôm sau vẫn còn ảnh hưởng, nên phải chú ý khi lái xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 42,
+    "section": "honmen-b",
+    "questionNumber": 248
+  },
+  {
+    "id": "honmen-b-63",
+    "text": "h Nơi có biển này, các phương tiện không được băng qua đường (trừ những phương tiện phải rẽ trái để vào, ra đường hoặc địa điểm khác).",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-249.jpg",
+    "questionNumber": 249
+  },
+  {
+    "id": "honmen-b-64",
+    "text": "Khi khởi hành xe chỉ cần xác nhận phía sau nếu an toàn thì không cần bật đẻn tín hiệu.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 250
+  },
+  {
+    "id": "honmen-b-65",
+    "text": "Khi bạn muốn vượt xe phía trước mà tốc độ vẫn trong phạm vi cho phép thì bạn được vượt xe đó.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 251
+  },
+  {
+    "id": "honmen-b-66",
+    "text": "Khi người lái xe ra tín hiệu như hình dưới ( nhìn từ phía sau ) là tín hiệu chạy chậm hoặc dừng xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-252.jpg",
+    "questionNumber": 252
+  },
+  {
+    "id": "honmen-b-67",
+    "text": "Xe tự động trước khi khởi động cần xác nhận đã khoá phanh tay và đê ở P chưa.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 253
+  },
+  {
+    "id": "honmen-b-68",
+    "text": "Khi đi qua đường tàu thanh ngang mới chắn xuống nhưng chưa xuông hệt có thê tăng toc và vượt qua.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 254
+  },
+  {
+    "id": "honmen-b-69",
+    "text": "Khi có ý định chạy qua bên hông xe đạp để rẽ trái tại nút giao thông, có thé xe đạp sẽ bị bạn ép nên đã bam còi nhắc nhở chú ý rồi rẽ trái.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 255
+  },
+  {
+    "id": "honmen-b-70",
+    "text": "Khi băng qua vỉa hè đề ra vào khu vực lề đường, người điều khiển phải tạm dừng phương tiện, không gây cản trở lưu thông của người đi bộ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 43,
+    "section": "honmen-b",
+    "questionNumber": 256
+  },
+  {
+    "id": "honmen-b-71",
+    "text": "Khi gặp biên này phải di chuyền theo đúng hướng mũi tên trên đường trừ trường hợp gặp xe cứu hộ khan cấp.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-257.jpg",
+    "questionNumber": 257
+  },
+  {
+    "id": "honmen-b-72",
+    "text": "Khi đi qua người đi bộ và đi xe đạp cần giữ khoảng cách an toàn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 258
+  },
+  {
+    "id": "honmen-b-73",
+    "text": "Khi lái xe trên đường không có vạch cho người đi bộ thì không cần nhường đường cho người đi bộ.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 259
+  },
+  {
+    "id": "honmen-b-74",
+    "text": "Biển báo này cho biết sắp tới số làn đường sẽ giảm dan.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-260.jpg",
+    "questionNumber": 260
+  },
+  {
+    "id": "honmen-b-75",
+    "text": "Khi đi qua xe buýt của mẫu giáo đang dừng cần phải dừng lại xác nhận an toàn rồi mới đi qua.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 261
+  },
+  {
+    "id": "honmen-b-76",
+    "text": "Mặc dù mỗi cá nhân là khác nhau nhưng do người cao tuổi có khả năng nhận biết nguy hiểm chậm hơn bình thường nên khi lái xe gặp người cao tuôi phải chú ý.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 262
+  },
+  {
+    "id": "honmen-b-77",
+    "text": "Đối với xe có hệ thống phanh chống bó cứng ABS thì cần nhấn phanh chia làm nhiều lần.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 263
+  },
+  {
+    "id": "honmen-b-78",
+    "text": "Khi gặp biển này các xe buộc phải đi theo hướng mũi tên. (Biển này nhưng phía dưới có 8-20: câu hỏi: từ 8 sáng đến 8 giờ tối không được rẽ phải).",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 44,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-264.jpg",
+    "questionNumber": 264
+  },
+  {
+    "id": "honmen-b-79",
+    "text": "Tại nút giao thông có bề rộng các làn đường bằng nhau thì bạn phải nhường đường cho các xe đến từ bên trái.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 265
+  },
+  {
+    "id": "honmen-b-80",
+    "text": "Khi phanh xe nên phanh mạnh | lần tránh phanh nhiêu lần làm giảm khả năng phán đoán của người lái phía sau.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 266
+  },
+  {
+    "id": "honmen-b-81",
+    "text": "Khi vượt các oto va xe dưới 50cc theo luật lệ giao thông quy định phải vượt bên phải của các xe đó.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 267
+  },
+  {
+    "id": "honmen-b-82",
+    "text": "Khi ra tín hiệu rẽ trái đồng thời là xoay tay lái.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 268
+  },
+  {
+    "id": "honmen-b-83",
+    "text": "Cắt qua khu vực tiếp giáp lề đường mà người đi bộ ra vào tại khu vực lề đường này thì chỉ cần đi chậm không cần dừng lại. (phải dừng)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 269
+  },
+  {
+    "id": "honmen-b-84",
+    "text": "Khi chuẩn bị rẽ trái ở ngã 4 phía trước thì cho xe tiến vào giữa đường đồng thời đi chậm và rẽ trái ( không quan tâm quy luật vòng xuyến ).",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 270
+  },
+  {
+    "id": "honmen-b-85",
+    "text": "Tại gần các nút giao thông và khu vực xung quanh là nơi xảy ra nhiều vụ tai nạn giao thông nhất nên hãy chú ý tăng tốc và vượt nhanh. S ) £ ae ae , . ,",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 271
+  },
+  {
+    "id": "honmen-b-86",
+    "text": "- Cam xe có tông trọng tai quá 5,5t di qua. (chú ý từ tong tải trọng, với tải trọng hàng hóa — Tải trọng hang hóa: Sai)",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-272.jpg",
+    "questionNumber": 272
+  },
+  {
+    "id": "honmen-b-87",
+    "text": "Trên làn đường xe chạy không có gắn biển báo hiệu tốc độ thì xe oto cũng không được phép chạy quá 60km/h.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 45,
+    "section": "honmen-b",
+    "questionNumber": 273
+  },
+  {
+    "id": "honmen-b-88",
+    "text": "Lái xe tắt nguồn điện thoại dé chế độ phù hợp dé không ảnh hưởng tới lái xe( ngoại trừ các thiết bị tự động trên xe)",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 274
+  },
+  {
+    "id": "honmen-b-89",
+    "text": "Biển cắm quay dau từ 8-20h.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-275.jpg",
+    "questionNumber": 275
+  },
+  {
+    "id": "honmen-b-90",
+    "text": "Khi đi qua khu vực sang đường của người đi bộ, dù đã xác nhận rõ ràng không có người đi bộ nhưng vẫn phải giảm tốc độ đi chậm lại. (giữ nguyên tốc độ cũng không sao)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 276
+  },
+  {
+    "id": "honmen-b-91",
+    "text": "Biên báo phía trước có đường chữ Y.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-277.jpg",
+    "questionNumber": 277
+  },
+  {
+    "id": "honmen-b-92",
+    "text": "Bên cạnh là xe đạp khi vượt bạn phải chú ý tốc độ và cự ly an toàn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 278
+  },
+  {
+    "id": "honmen-b-93",
+    "text": "Trên đường có biển báo như trong hình, nếu chú ý quan sát người đi bộ thì các xe không phải là xe đạp thông thường vẫn có thê lưu thông chậm.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-279.jpg",
+    "questionNumber": 279
+  },
+  {
+    "id": "honmen-b-94",
+    "text": "Tomare dừng lại trước vạch trắng, néu không có vạch trang thì phải dừng trước biển này.",
+    "answer": "SAI",
+    "explanation": "phải dùng trước, ngã 3, ngã 4...",
+    "page": 46,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-280.jpg",
+    "questionNumber": 280
+  },
+  {
+    "id": "honmen-b-95",
+    "text": "Tại đoạn đường xuống dốc phải sử dụng phanh liên tục dé đảm bảo an toàn. (Phải dùng phanh động cơ, không được dùng phanh chân liên tục)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 281
+  },
+  {
+    "id": "honmen-b-96",
+    "text": "Cảnh sát dơ tay ngang đông nghĩa với chiêu mũi tên là tín hiệu đèn đỏ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-282.jpg",
+    "questionNumber": 282
+  },
+  {
+    "id": "honmen-b-97",
+    "text": "Khi thấy đèn tín hiệu nhấp nháy đỏ vào buồi đêm vì không có xe hoặc lượng xe ít vẫn có thể giảm tốc độ đi qua. (Đèn đỏ nhấp nháy phải dừng lại fZ1l-)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 283
+  },
+  {
+    "id": "honmen-b-98",
+    "text": "Tại ngã tư có tín hiệu đèn giao thông màu đỏ, nhưng có người giám sát thi công hướng dẫn nên tôi đã làm theo hướng dẫn của người giám sát công trình.",
+    "answer": "SAI",
+    "explanation": "Tuân theo đèn giao thông, giám sát công trình không có tác dụng",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 284
+  },
+  {
+    "id": "honmen-b-99",
+    "text": "Khi rẽ trái chỉ cần ép sát khi cua không cần phải chú ý đến hướng của các xe khác. (cần chú ý các xe khác)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 285
+  },
+  {
+    "id": "honmen-b-100",
+    "text": "Tại ngã 4 khi đèn tín hiệu bên kia là màu đỏ thì đèn phía trước chắc chắn là màu xanh vì vậy mình không cần phải nhìn tín hiệu đèn phía trước.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 286
+  },
+  {
+    "id": "honmen-b-101",
+    "text": "Đai that lưng của dây an toàn nên thắt lỏng để quàng qua phan bụng.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 287
+  },
+  {
+    "id": "honmen-b-102",
+    "text": "Khi bị lạc đường, chỉ nhìn vào thiết bị chỉ đường trên xe mà không cần quan sát xung quanh. ANNAN 4.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 288
+  },
+  {
+    "id": "honmen-b-103",
+    "text": "Chi dẫn này biéu thị phần đường cắm không được đivào.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-289.jpg",
+    "questionNumber": 289
+  },
+  {
+    "id": "honmen-b-104",
+    "text": "Khi có hai làn xe, di chuyên vào làn trống dé giao thông được thuận tiện hơn cho việc lưu thông.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 290
+  },
+  {
+    "id": "honmen-b-105",
+    "text": "Trong trường hợp vì giao thông phía trước đang bị tắc nghẽn, mà hướng di chuyền là màu xanh nhưng vì ảnh hưởng đến giao thông nên dừng xe trước ngã tư.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 291
+  },
+  {
+    "id": "honmen-b-106",
+    "text": "€2 Biên báo này có nghĩa đường chỉ rộng 2,2m.",
+    "answer": "SAI",
+    "explanation": "xe có chiều rộng lớn hơn mức này cắm đi qua",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-292.jpg",
+    "questionNumber": 292
+  },
+  {
+    "id": "honmen-b-107",
+    "text": "Trên đường có biển chỉ dẫn quy định về tốc độ tối đa thì không được vượt quá tốc độ cho phép.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 293
+  },
+  {
+    "id": "honmen-b-108",
+    "text": "Biên này được phép rẽ trái.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 48,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-294.jpg",
+    "questionNumber": 294
+  },
+  {
+    "id": "honmen-b-109",
+    "text": "Khi muốn rẽ trái, xe phải tấp càng sát vào lề trái càng tốt, đi chậm ôm theo sát mép của đường ( không quan tâm quy luật vòng xuyến )",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 295
+  },
+  {
+    "id": "honmen-b-110",
+    "text": "Khi một chiếc xe muốn vượt qua , không được tăng tốc cho đến khi xe đó đã vượt qua hoàn toàn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 296
+  },
+  {
+    "id": "honmen-b-111",
+    "text": "Trên đường dành riêng cho xe buýt tuyến có định , xe đạp có gắn động cơ cũng không được phép di chuyền vào làn đường này.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 297
+  },
+  {
+    "id": "honmen-b-112",
+    "text": "Khi lái xe trong một khoảng thời gian liên tục bạn nên nghỉ giải lao sau mỗi 2 tiếng lái xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 298
+  },
+  {
+    "id": "honmen-b-113",
+    "text": "Khi đi qua xe buýt đang đưa đón học sinh, ban sau khi xác nhận an toàn thì không phải gam tốc độ hoặc dừng lại mà cứ thế cho xe tiếp tục di chuyền.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 299
+  },
+  {
+    "id": "honmen-b-114",
+    "text": "Tại nơi giao nhau với đường sắt có đèn tín hiệu giao thông , phương tiện được phép lưu thông theo tín hiệu của đèn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 300
+  },
+  {
+    "id": "honmen-b-115",
+    "text": "Sau khi uống thuốc cảm cúm, có tác dụng phụ gây buồn ngủ bạn không nên lái xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 301
+  },
+  {
+    "id": "honmen-b-116",
+    "text": "Phía trước có chướng ngại vật , làn đường theo chiêu ngược lại có xe tiến đến bạn đã tăng tốc dé vượt chướng ngại vật trước khi xe đối diện tiến đến.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 302
+  },
+  {
+    "id": "honmen-b-117",
+    "text": "Khi chuyền làn cần phải chờ xe phía sau di qua mới được chuyên làn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 303
+  },
+  {
+    "id": "honmen-b-118",
+    "text": "®. những khu vực có biển báo này, các phương tiện không chi bị cắm băng qua đường mà còn bị cam quay dau, lùi xe. (Biển này chi cam băng qua)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 49,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-304.jpg",
+    "questionNumber": 304
+  },
+  {
+    "id": "honmen-b-119",
+    "text": "Khi rẽ phải, phương tiện phải di chuyên càng gần tâm đường càng tốt và chạy chậm ngay trong tâm đường giao nhau. Valter iinet",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 305
+  },
+  {
+    "id": "honmen-b-120",
+    "text": "341017 Sau khi xác nhận an toàn rồi thì không cần phải tuân theo chỉ dan.(Khi gặp biển này nếu đi theo bién chi dẫn sẽ an toàn hon, nhưng không bắt buộc phải đi theo<<vạch trắng nét liền>>) .Sai",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-306.jpg",
+    "questionNumber": 306
+  },
+  {
+    "id": "honmen-b-121",
+    "text": "Khi di qua làn đường dành cho người đi bộ, rõ ràng là không thấy có người đi bộ thì giữ nguyên tốc độ và đi qua.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 307
+  },
+  {
+    "id": "honmen-b-122",
+    "text": "Người có bằng lái xe oto thông thường được phép lái xe đạp gắn động cơ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 308
+  },
+  {
+    "id": "honmen-b-123",
+    "text": "Xe ofo thông thường không được phép sử dụng làn đường có biên báo này, trừ những trường hợp không thẻ tránh khỏi như rẽ trái hoặc rẽ phải.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-309.jpg",
+    "questionNumber": 309
+  },
+  {
+    "id": "honmen-b-124",
+    "text": "Za. báo chỉ đường như hình dưới đây có ý nghĩa là phía trước là đường ưu tiên.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-310.jpg",
+    "questionNumber": 310
+  },
+  {
+    "id": "honmen-b-125",
+    "text": "Khi xe ưu tiên đang đến gan, không phải là khu vực giao lộ hoặc gần giao lộ thì phải tấp vào lề trái và nhường đường ( bất kể hình dạng đường ). Sai “Không cần phải nhất định là lề trái, lề phải cũng được”",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 311
+  },
+  {
+    "id": "honmen-b-126",
+    "text": "Khi có từ 3 làn đường xe chạy cùng chiều trở lên thì làn ngoài cùng bên phải được để trống để vượt... có thể sử dụng các làn đường xe khác nhưng trong trường hợp đó phải hạn chế tóc độ, sử dụng làn đường nơi xe chạy chậm di chuyển sang trái và xe đi nhanh hơn di chuyển sang phải ( không bao gồm các loại xe đặc biệt nhỏ, các loại xe được chỉ định bằng biển báo...)",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 312
+  },
+  {
+    "id": "honmen-b-127",
+    "text": "+ Biên báo phía trước là khu vực an toàn.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-313.jpg",
+    "questionNumber": 313
+  },
+  {
+    "id": "honmen-b-128",
+    "text": "Khi rẽ ở nút giao thông thì thời điểm bật xi nhan là 30m trước khi rẽ. (Ré xin nhan trước 30m, chuyên làn xin nhan trước 3s)",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 314
+  },
+  {
+    "id": "honmen-b-129",
+    "text": "Thời điểm ra tín hiệu chuyên làn là ngay khi bạn xoay vô lăng.Sai",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 315
+  },
+  {
+    "id": "honmen-b-130",
+    "text": "Bằng lái xe thông thường có thé lái được xe 2 bánh thông thường và xe gắn động cơ dưới 50cc. Chú ý có từ * xe 2 bánh thông thường”",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 316
+  },
+  {
+    "id": "honmen-b-131",
+    "text": "Nguyên tắc đường trung tâm là khi có kí hiệu trung tâm thì phải đi về phía bên trái tính từ trung tâm đường.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 51,
+    "section": "honmen-b",
+    "questionNumber": 317
+  },
+  {
+    "id": "honmen-b-132",
+    "text": "` Biển này cam đỗ xe chứ không cam dừng xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-318.jpg",
+    "questionNumber": 318
+  },
+  {
+    "id": "honmen-b-133",
+    "text": "Tại làn đường dành riêng cho xe buýt tuyến có định, thì dù là lúc rẽ trái cũng không được lưu thông sang làn đó.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 319
+  },
+  {
+    "id": "honmen-b-134",
+    "text": "Nút giao thông và khu vực gan nút giao thông là nơi hay xảy ra tai nạn, nên phải cô găng tăng tôc và chạy qua nhanh.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 320
+  },
+  {
+    "id": "honmen-b-135",
+    "text": "Khi người già điều khiển xe sẽ quan sát chậm và xử lý kém, nên lưu thông chú ý cắm không được áp sát hay chen ngang trừ trường hợp né tránh nguy hiểm.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 321
+  },
+  {
+    "id": "honmen-b-136",
+    "text": "Lên và xuống dốc khuất tầm nhìn vì dé va chạm nên không được vượt xe oto và xe máy dưới 50cc.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 322
+  },
+  {
+    "id": "honmen-b-137",
+    "text": "Khi có nguy cơ không thê ra khỏi làn đường ưu tiên dành cho xe buýt tuyến cố định do giao thông ùn tắc thì ngay từ đầu không được lưu thông trên làn đó.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 323
+  },
+  {
+    "id": "honmen-b-138",
+    "text": "Đối với xe số tự động, việc sử dụng phanh chia ra nhiều lần không chỉ thông báo cho phương tiện phía sau mà còn giảm thiểu tai nạn do đường trơn trượt.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 324
+  },
+  {
+    "id": "honmen-b-139",
+    "text": "Khi rẽ trái hoặc rẽ phải đến khi kết thúc, thời gian tắt tín hiệu là 3s khi hành vi kết thúc.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 325
+  },
+  {
+    "id": "honmen-b-140",
+    "text": "Khi đi qua nơi chắn đường tàu nên sớm thay đổi tốc độ và chạy qua 1 mạch dé ngăn ngừa chết máy.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 326
+  },
+  {
+    "id": "honmen-b-141",
+    "text": "Trên đường thiết lập làn đường ưu tiên cho xe buýt bạn đã lưu thông trên làn đó đề rẽ trái .Đúng",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 327
+  },
+  {
+    "id": "honmen-b-142",
+    "text": "} Biển báo này biểu thị phía trước đang thi công, nên xe không được lưu thông.",
+    "answer": "SAI",
+    "explanation": "được lưu thông",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-328.jpg",
+    "questionNumber": 328
+  },
+  {
+    "id": "honmen-b-143",
+    "text": "Không được điều khiển xe sau khi uống rượu, nhưng uống bia có lượng côn ít có thê điêu khiên xe sau khi uông.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 329
+  },
+  {
+    "id": "honmen-b-144",
+    "text": "Biên báo khu vực sang đường dành cho xe đạp.",
+    "answer": "ĐÚNG",
+    "explanation": "A fic fel",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-330.jpg",
+    "questionNumber": 330
+  },
+  {
+    "id": "honmen-b-145",
+    "text": "Khi điều khiển xe đưới 50cc chỉ cần có bằng phù hợp hoặc máy kéo không cần phải mang theo bằng lái xe.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 331
+  },
+  {
+    "id": "honmen-b-146",
+    "text": "Tại khu vực có trẻ em đang chơi gần đường khi di qua bạn không cần đi chậm.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 332
+  },
+  {
+    "id": "honmen-b-147",
+    "text": "Tại đường có vạch người đi bộ qua đường vì khuất tam nhìn ban không nhìn rõ nên bạn phải dừng lại trước vạch xác nhận an toàn rồi qua. ...",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 333
+  },
+  {
+    "id": "honmen-b-148",
+    "text": "Kaien i hi gap biển này nếu không có người đi bộ thì oto có thé đi vào.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 53,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-334.jpg",
+    "questionNumber": 334
+  },
+  {
+    "id": "honmen-b-149",
+    "text": "Tại các khu vực gần góc cua, ô tô không được vượt bên phải của xe khác.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 335
+  },
+  {
+    "id": "honmen-b-150",
+    "text": "Bạn nên giảm tốc độ trước khi vào góc cua sẽ an toàn hơn là vào cua rồi mới giảm tốc độ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 336
+  },
+  {
+    "id": "honmen-b-151",
+    "text": "© được di chuyên hướng khác biên bao.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-337.jpg",
+    "questionNumber": 337
+  },
+  {
+    "id": "honmen-b-152",
+    "text": "Biển báo này là đường dành riêng cho người đi bộ. | j <^ I Ị | 2 2 lộ 2",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-338.jpg",
+    "questionNumber": 338
+  },
+  {
+    "id": "honmen-b-153",
+    "text": "> Tai noi có biên bao này, có thê rẽ trai bat kê tin hiệu phía trước là gì.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-339.jpg",
+    "questionNumber": 339
+  },
+  {
+    "id": "honmen-b-154",
+    "text": "@. các phương tiện có chiều rộng vượt quá giới hạn trên biển báo.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 54,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-340.jpg",
+    "questionNumber": 340
+  },
+  {
+    "id": "honmen-b-155",
+    "text": "| Khi không có người đi bộ có thé vào đỗ hoặc dừng xe.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-341.jpg",
+    "questionNumber": 341
+  },
+  {
+    "id": "honmen-b-156",
+    "text": "i Biển báo phía trước có đường dành cho người đi bộ hoặc xe đạp.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-342.jpg",
+    "questionNumber": 342
+  },
+  {
+    "id": "honmen-b-157",
+    "text": "Biển báo này cho phép lan sang phải dé cua.Đúng",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 55,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-343.jpg",
+    "questionNumber": 343
+  },
+  {
+    "id": "honmen-b-158",
+    "text": "@ Biển báo nay cho biết giới hạn tốc độ tối thiểu là 50km/h.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-344.jpg",
+    "questionNumber": 344
+  },
+  {
+    "id": "honmen-b-159",
+    "text": "Cả 2 hình của cảnh sát đều có ý nghĩa là đèn đỏ. | 4 W",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-345.jpg",
+    "questionNumber": 345
+  },
+  {
+    "id": "honmen-b-160",
+    "text": "Biển báo này có ý nghĩa la đường 1 chiều.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-346.jpg",
+    "questionNumber": 346
+  },
+  {
+    "id": "honmen-b-161",
+    "text": "Phía trước có xe đang định vượt, bạn xác nhận an toàn và có thể tăng tốc vượt lên 2 xe phía trước.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 347
+  },
+  {
+    "id": "honmen-b-162",
+    "text": "Người có bằng lái Karimen “ bằng lái tạm thời ”, khi tập lái trên đường bat buộc phải gắn biên tập lái như hình (đang tập lái với bằng Karimen “ bằng lái tạm thời ”) vào trước và sau xe đúng nơi quy định. “Chú ý từ: trước và sau: Dung, trước hoặc sau: Sai)” RE",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-348.jpg",
+    "questionNumber": 348
+  },
+  {
+    "id": "honmen-b-163",
+    "text": "$ Biển báo này cho biết phía trước có đường trơn trượt.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 56,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-349.jpg",
+    "questionNumber": 349
+  },
+  {
+    "id": "honmen-b-164",
+    "text": "Khi dừng xe 6 tô tự động, thì nhân phanh chân, giữ nguyên như thế rồi gạt phanh tay chuyên cần gạt về P là được.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 350
+  },
+  {
+    "id": "honmen-b-165",
+    "text": "Khi đi vào ngã tư, phương tiện rẽ phải không được gây cản trở giao thông của xe di thang và rẽ trái ( không quan tâm quy luật vòng xuyến) Trình tự ưu tiên : Di thăng >» Rẽtrái — rẽ phải",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 351
+  },
+  {
+    "id": "honmen-b-166",
+    "text": "Khi xuống đường dốc dài bạn phải kéo phanh tay và đạp phanh.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 352
+  },
+  {
+    "id": "honmen-b-167",
+    "text": "Phương tiện không được gây cản trở phương tiện khác phía trước có thay đồi làn dé rẽ trái hoặc phải, hoặc dé có thé di chuyên doc làn đường chỉ định theo biển báo hoặc vạch kẻ đường ( không quan tâm quy luật vòng xuyến)",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 353
+  },
+  {
+    "id": "honmen-b-168",
+    "text": "Tại ngã tư trường hợp đèn tín hiệu giao thông ở hướng đi thang dang nhap nháy vàng, quan sat các xe dang lưu thông trên đường giao nhau, chạy chậm và lưu thông.(Liên quan đến đèn vàng nhấp nháy: khi thấy tín hiệu đèn thì chú ý khi lưu thông) Đèn vàng nhấp nháy- chú ý quan sát- chạy bình thường",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 354
+  },
+  {
+    "id": "honmen-b-169",
+    "text": "Trường hợp đề đỗ xe vào bãi đỗ xe hướng mặt ra đường thì phải đi cắt ngang qua lề đường dành cho người đi bộ. Nếu không có người đi bộ, trước khi chạy cắt ngang thì đi chậm và xác nhận an toàn rồi đi qua.Sai Không phải đi chậm- phải dừng lại (ƒ#1I-)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 57,
+    "section": "honmen-b",
+    "questionNumber": 355
+  },
+  {
+    "id": "honmen-b-170",
+    "text": "Khi tới khu vực qua đường dành cho xe đạp, dù trường hợp rõ ràng không có xe đạp thì cũng phải đi chậm.Sai (Rõ ràng không có, được chạy như bình thường)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 356
+  },
+  {
+    "id": "honmen-b-171",
+    "text": "Tại ngã tư có biển báo tạm dừng, khi tạm dừng và tiến vào, có thề di chuyên vào ngã tư trước các xe đang lưu thông qua đường giao nhau trong ngã tu.Sai (Phải nhường đường cho các xe trong ngã tu lưu thông trước)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 357
+  },
+  {
+    "id": "honmen-b-172",
+    "text": "Biên cảnh báo phía trước có đường trơn trượt.Đúng",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-358.jpg",
+    "questionNumber": 358
+  },
+  {
+    "id": "honmen-b-173",
+    "text": ".. Bién chi dẫn này biéu thị phía trước có làn đường cho người đi bộ hoặc khu vực qua đường dành cho xe đạp.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-359.jpg",
+    "questionNumber": 359
+  },
+  {
+    "id": "honmen-b-174",
+    "text": "Các phương tiện và xe điện không được vào khu vực được đánh dấu xác định nếu có nguy cơ có thể bị buộc phải dừng lại ở đó do các điều kiện phía trước. a ie xẻ",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-360.jpg",
+    "questionNumber": 360
+  },
+  {
+    "id": "honmen-b-175",
+    "text": "© Người đi bộ và xe hạng nhẹ có thé đi vào phần đường này.",
+    "answer": "SAI",
+    "explanation": "chỉ có người đi bộ được đi vào",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-361.jpg",
+    "questionNumber": 361
+  },
+  {
+    "id": "honmen-b-176",
+    "text": "Cho biết kết thúc điều tiết giao thông theo chỉ định trên biển báo chính. `.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-362.jpg",
+    "questionNumber": 362
+  },
+  {
+    "id": "honmen-b-177",
+    "text": "Xe có thê dừng lại an toàn khi đèn giao thông ở ngã tư chuyên sang màu vàng. Tuy nhiên, sẽ tốt hơn nếu tôi có thể vượt qua ngã tư trước khi nó chuyên sang màu đỏ, vì vậy tôi đã vượt qua một cách cần thận.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 363
+  },
+  {
+    "id": "honmen-b-178",
+    "text": "Tín hiệu tay của nhân viên cảnh sát, chăng hạn như tín hiệu trong hình này, khi đối mặt với luồng giao thông theo hướng mũi tên. Nó có ý nghĩa tương tự như tín hiệu của đèn xanh.Đúng",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-364.jpg",
+    "questionNumber": 364
+  },
+  {
+    "id": "honmen-b-179",
+    "text": "Dù là đường có biển báo như trong hình thì xe đạp và người đi bộ vẫn có thê đi vào. đi bộ)",
+    "answer": "SAI",
+    "explanation": "biên này cấm tat cả, bao gồm cả người",
+    "page": 59,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-365.jpg",
+    "questionNumber": 365
+  },
+  {
+    "id": "honmen-b-180",
+    "text": "| | Như thé hiện trong hình này, vành dai giao thông dành cho xe phía trước giao lộ được đánh dấu bằng vạch màu vàng. Tại nơi được đánh dấu, không được vượt qua vạch màu vàng và chuyên hướng, kề cả rẽ phải hoặc rẽ trái.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-366.jpg",
+    "questionNumber": 366
+  },
+  {
+    "id": "honmen-b-181",
+    "text": "Sau khi hoàn thành các hành động như rẽ phải hoặc trái, hãy tắt tin hiệu xin nhan càng sớm càng tốt.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 367
+  },
+  {
+    "id": "honmen-b-182",
+    "text": "Khi khởi hành, hãy kiểm tra độ an toàn trước khi khởi hành, sau đó đưa ra tín hiệu bằng đèn báo hướng và một lần nữa kiểm tra độ an toàn của phía trước, phía sau, bên trái và bên phải bằng gương chiếu hậu, v.v., trước khi bắt đầu.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 368
+  },
+  {
+    "id": "honmen-b-183",
+    "text": "Khi cảnh sát giao thông ra tín hiệu tay có nghĩa khác với tín hiệu đèn giao thông ở giao lộ có đèn giao thông thì đi theo tín hiệu đèn giao thông. Chú ý(ở giao lộ : cảnh sát giao thông+ đèn tín hiệu tuân theo cảnh sát) Nhưng ở giao lộ : đèn tin hiệu+ người giám sát công trình (ra dấu hiệu di chuyén)> tuân theo đèn tín hiệu .",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 369
+  },
+  {
+    "id": "honmen-b-184",
+    "text": "Vì thời gian vượt kéo dài sẽ nguy hiểm nên sau khi xác nhận an toàn xung quanh và gương chiếu hậu “qua loa” bạn đã tăng tôc vượt lên xe phía trước.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 60,
+    "section": "honmen-b",
+    "questionNumber": 370
+  },
+  {
+    "id": "honmen-b-185",
+    "text": "Khi có người đi bộ có ý định qua đường ở khu vực không có vạch qua đường bạn không cần quan tâm giữ nguyên tốc độ và đi qua.",
+    "answer": "SAI",
+    "explanation": "phải dừng nhường cho người đi bộ",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 371
+  },
+  {
+    "id": "honmen-b-186",
+    "text": "Mũi tên đèn màu xanh đang sáng. Xe oto đối diện với đèn tín hiệu này có thé rẽ phải ở nút giao thông.Đúng",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-372.jpg",
+    "questionNumber": 372
+  },
+  {
+    "id": "honmen-b-187",
+    "text": ": Biển báo chỉ dẫn này có ý nghĩa phía trước có “nút giao thông vòng xuyên” .Sai Biên màu xanh mới là giao thông vòng xuyến.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-373.jpg",
+    "questionNumber": 373
+  },
+  {
+    "id": "honmen-b-188",
+    "text": "Độ dài khoảng cách phanh tỉ lệ với tốc độ. Do vậy nếu tóc độ tăng gấp hai lần thì khoảng cách phanh cũng dài gap hai lần.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 374
+  },
+  {
+    "id": "honmen-b-189",
+    "text": "Khi lưu thông qua nút giao thông khó quan sát bên trái và bên phải, dù xe của mình chạy trên đường ưu tiên cũng phải chạy chậm. chậm)",
+    "answer": "SAI",
+    "explanation": "nếu mình trên đường ưu tiên thì chạy tẹc ga không sao - không cần chạy",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 375
+  },
+  {
+    "id": "honmen-b-190",
+    "text": "Trường hợp cho dù các làn đường lưu thông dành cho... trước ngã tư được phân cách băng các đường vạch vàng, khi rẽ trái phải mà cần đồi làn thì vẫn có thê vượt qua vạch vàng này.Sai Không được vượt qua vạch vàng",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 376
+  },
+  {
+    "id": "honmen-b-191",
+    "text": "Khi chuân bị ré phải tại ngã tư, việc đi chuyên sang phía bên trái đường trước sẽ dé dang và an toàn hơn khi rẽ ( ngoại trừ giao thông vòng xuyén).",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 61,
+    "section": "honmen-b",
+    "questionNumber": 377
+  },
+  {
+    "id": "honmen-b-192",
+    "text": "Vi sẽ an toàn hơn khi vượt qua trong khoảng thời gian ngắn, do vay xác nhận trước và sau xe và làn xe chạy ngược chiều một cách đơn giản rồi tăng tốc độ vượt qua.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 378
+  },
+  {
+    "id": "honmen-b-193",
+    "text": "Cho dù xe phía trước đang định vượt qua một chiếc xe khác, nếu vẫn chạy xe trong giới hạn tốc độ cho phép thì vẫn có thể vượt được các xe này.",
+    "answer": "SAI",
+    "explanation": "cắm vượt xe khi xe đó đang vượt xe khác",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 379
+  },
+  {
+    "id": "honmen-b-194",
+    "text": "Khi phía trước đang bị tắc nghẽn, trường hợp đèn giao thông đối diện là đèn xanh thì bắt buộc phải dừng ở trong ngã tư.",
+    "answer": "SAI",
+    "explanation": "phía trước tắc thì dù đèn xanh vẫn không được vào ngã tư",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 380
+  },
+  {
+    "id": "honmen-b-195",
+    "text": "Ở nút giao thông có vạch kẻ màu vàng vì muốn rẽ phải nên bạn đã cho xe chuyển làn và tiền vào nút giao thông. Không được dẫm vạch màu vàng.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 381
+  },
+  {
+    "id": "honmen-b-196",
+    "text": "Khi tiến vào khu vực giao thông vòng xuyến, ưu tiên các xe đang lưu thông trong nút giao thông vòng xuyến và có thẻ lưu thông.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 382
+  },
+  {
+    "id": "honmen-b-197",
+    "text": "Khi khởi động xe oto tự động, cần phải xác nhận phanh tay đã khóa hay chưa và cần số ở vị trí P.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 383
+  },
+  {
+    "id": "honmen-b-198",
+    "text": "Khi đến gần thanh ngang chắn tàu, còi báo động vang lên nhưng do thanh ngang chắn tàu mới hạ xuống hay chưa hạ xuống hết , nên vẫn đi qua.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 384
+  },
+  {
+    "id": "honmen-b-199",
+    "text": "Khi đến gần vạch kẻ đường dành cho người đi bộ, trường hợp rõ ràng không có người đi bộ băng qua đường, bạn có thẻ tiếp tục lưu thông với tốc độ như cũ mà không cần chạy chậm lại.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 385
+  },
+  {
+    "id": "honmen-b-200",
+    "text": "Khi không thê lưu thông ở phía bên trái đường do đường đang thi công, bạn có thé di lan qua phía bên phải dé lưu thông.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 386
+  },
+  {
+    "id": "honmen-b-201",
+    "text": "Tại đường một chiều có 2 làn xe oto di chuyền về phía bên trái. —— đường dành cho người đi bộ, khi không có người đi bộ xe oto có thê đi vào.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 387
+  },
+  {
+    "id": "honmen-b-202",
+    "text": "Lé đường dành cho người đi bộ, khi không có người đi bộ xe oto có thê đi vào.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 388
+  },
+  {
+    "id": "honmen-b-203",
+    "text": "Trên đường một chiều bạn phải lưu thông về bên phải. Có thê lưu thông bên phải , chứ không phải “ phải lưu thông bên phải”",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 389
+  },
+  {
+    "id": "honmen-b-204",
+    "text": "Khi đi qua bên cạnh trẻ em đang đi bộ một mình, nhất định phải dừng lại và lưu thông an toàn. PLD RAT a2..2a< r.:...mmmmammmmaamaamamamaamn 8 8=— Đe s- công, bạn có thé di lan qua phía bên phải dé lưu thông.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 390
+  },
+  {
+    "id": "honmen-b-205",
+    "text": "Khi dừng xe nếu không chuyền can số về P sé xảy ra hiện tượng trườn xe rất nguy hiểm.Đúng",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 391
+  },
+  {
+    "id": "honmen-b-206",
+    "text": "Khi đi qua khu vực có biển báo bam còi, sau khi đã xác nhận an toàn rồi thì có thể đi qua mà không cần bam còi.Sai An toàn cũng phải bam",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 392
+  },
+  {
+    "id": "honmen-b-207",
+    "text": "Tomare dừng lại trước vạch trắng, néu không có vạch trắng thì phải dừng trước giao lộ ( ngã tu).Dung “Chú ý (dừng trước ngã tư, chứ không phải dừng trước biên này)”",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-393.jpg",
+    "questionNumber": 393
+  },
+  {
+    "id": "honmen-b-208",
+    "text": "fy Vi biển báo này biểu thị có trường học, trường mau giáo hay đường đi học gần đó, do có nhiều trẻ em qua lại, nên cần phải lái xe cần thận.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 63,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-394.jpg",
+    "questionNumber": 394
+  },
+  {
+    "id": "honmen-b-209",
+    "text": "Người lái xe khi xuống xe phải chú ý xác nhận an toàn phía sau là tắt nhiên, ngoài ra thì người lái xe cũng phải chú ý an toàn phía sau khi người đi cùng xuống xe. = ‘ Tae f Kdkásssl dial",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 395
+  },
+  {
+    "id": "honmen-b-210",
+    "text": "Xe chạy ở đường có vạch kẻ (xe B) phải nhường cho xe bên trái (xe A).",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-396.jpg",
+    "questionNumber": 396
+  },
+  {
+    "id": "honmen-b-211",
+    "text": "iv) Biên báo nay cho biết phía trước đường giao nhau có cùng chiều rộng.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-397.jpg",
+    "questionNumber": 397
+  },
+  {
+    "id": "honmen-b-212",
+    "text": "Tại đường một chiều xe máy phải di chuyên ở bên trái đường.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 398
+  },
+  {
+    "id": "honmen-b-213",
+    "text": "Đường dành riêng cho người đi bộ ngoại trừ những người có bãi đậu xe trên via hè băng qua và người có bằng lái xe đặc biệt, các phương tiện khác không được đi vào.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 399
+  },
+  {
+    "id": "honmen-b-214",
+    "text": "Khi muốn vượt xe đang dừng trước vạch sang đường dành cho người đi bộ, bạn phải dừng lại xác nhận an toàn rồi đi chậm qua.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 400
+  },
+  {
+    "id": "honmen-b-215",
+    "text": "Nairin là sự sai lệch giữa bánh trước và bánh sau khi rẽ trái hoặc rẽ phải. Góc rẽ hẹp độ sai lệch sẽ lớn, góc rẽ rộng sẽ ít sai lệch nên không cần chú ý.",
+    "answer": "SAI",
+    "explanation": "góc lớn bé cũng cần chú ý",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 401
+  },
+  {
+    "id": "honmen-b-216",
+    "text": "Khi gần ngã tư 2 làn đường có vạch vàng, vì rẽ phải nên đã đi qua vạch vàng. Không được rẽ qua vạch vàng",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 64,
+    "section": "honmen-b",
+    "questionNumber": 402
+  },
+  {
+    "id": "honmen-b-217",
+    "text": "Khi đi qua khu vực có bién biển báo này, phải lắn sang phải đ cua. Sai - Có thê lân sang phải, chứ không phải “phải lân sang phải” (Câu này có thêm 1 câu - qua khu vựe có biển báo này - dù có xe đối diện di tới, ban lan sang phải dé cua.) >",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-403.jpg",
+    "questionNumber": 403
+  },
+  {
+    "id": "honmen-b-218",
+    "text": "$ Biển này báo hiệu phía trước có đường ngoằn nghèo.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-404.jpg",
+    "questionNumber": 404
+  },
+  {
+    "id": "honmen-b-219",
+    "text": "Khi gặp biển báo này các phương tiện phải giảm tốc độ và lưu thông. (Đi chậm có thé dừng ngay lập tức, không phải giảm tốc độ).",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-405.jpg",
+    "questionNumber": 405
+  },
+  {
+    "id": "honmen-b-220",
+    "text": "Khi trên đường không có biển báo tốc độ, thì xe đạp gắn máy có thê chạy với vận tốc dưới 30 km/h.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 65,
+    "section": "honmen-b",
+    "questionNumber": 406
+  },
+  {
+    "id": "honmen-b-221",
+    "text": "Khi đi qua người đi bộ và di xe đạp nếu giữ được khoảng cách an toàn thì không cân đi chậm.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 407
+  },
+  {
+    "id": "honmen-b-222",
+    "text": "n Biển báo chỉ thị số làn đường bị giảm.",
+    "answer": "SAI",
+    "explanation": "chiều rộng giảm",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-408.jpg",
+    "questionNumber": 408
+  },
+  {
+    "id": "honmen-b-223",
+    "text": "Khi đi qua vùng an toàn phải lái xe chậm, bat kể trong vùng an toàn có người đi bộ hay không.",
+    "answer": "SAI",
+    "explanation": "khi không có người chạy bình thường",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 409
+  },
+  {
+    "id": "honmen-b-224",
+    "text": "Khi muốn chuyển hướng, cần phải hết sức chú ý để không gây phiền phức cho người lái xe khác.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 410
+  },
+  {
+    "id": "honmen-b-225",
+    "text": "Nếu có chướng ngại vật phía trước, hãy dừng lại trước chướng ngại vật đó và nhường đường cho xe đang chạy tới.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 411
+  },
+  {
+    "id": "honmen-b-226",
+    "text": "Tôi thay một người đi bộ đang có gắng băng qua via hè nên dừng lại một lúc, nhưng vì đang vội nên tôi bam còi cảnh báo và cảnh báo người đó phải cân thận, tôi lái xe vượt qua người đi bộ phía trước.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 412
+  },
+  {
+    "id": "honmen-b-227",
+    "text": "Khi đạp phanh, tốt nhất trước tiên bạn nên đạp phanh nhẹ nhất có thé, sau đó đạp phanh dan dan ở mức độ cần thiết.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 413
+  },
+  {
+    "id": "honmen-b-228",
+    "text": "Cắm vượt hoặc vượt bất kỳ phương tiện nào trong phạm vi 30 mét tính từ mặt trước của “vạch sang đường dành cho người đi bộ” hoặc “vạch sang đường dành cho xe đạp”. (HEHE fil # lầ < - ngoại trừ các loại xe thô sơ)",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 414
+  },
+  {
+    "id": "honmen-b-229",
+    "text": "Khi đến gần vạch dành cho người đi bộ hoặc dải đường dành cho xe đạp mà không rõ có người đi bộ hay người đi xe đạp thì phải đi với tốc độ đề có thể dừng lại ngay được.",
+    "answer": "ĐÚNG",
+    "explanation": "Nếu rõ ràng ko có người thì chạy qua luôn ko cần giảm tốc độ",
+    "page": 66,
+    "section": "honmen-b",
+    "questionNumber": 415
+  },
+  {
+    "id": "honmen-b-230",
+    "text": "đ). báo này cho biết ô tô có thê đi thăng hoặc rẽ trái nhưng không được rẽ phải.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-416.jpg",
+    "questionNumber": 416
+  },
+  {
+    "id": "honmen-b-231",
+    "text": "Người điều khiển xe oto phải khóa cửa và can thận không đề người đi cùng mở hoặc mở bất cần.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 417
+  },
+  {
+    "id": "honmen-b-232",
+    "text": "Khi rẽ trái ở ngã tư, sẽ an toàn hơn nếu quay vô lăng sang phải trước rồi rẽ trái, vì lực tác động của bánh trong sẽ nhỏ hơn và sẽ an toàn hơn.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 418
+  },
+  {
+    "id": "honmen-b-233",
+    "text": "Khi đi ngang qua một người đang chống gậy trắng hoặc vàng, bạn phải dừng lại và đi chậm. FIED RTT",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 419
+  },
+  {
+    "id": "honmen-b-234",
+    "text": "Khi đến gần ngã tư như hình bên dưới, ở nơi đường có bề rộng bằng nhau thì xe A không được phép cản trở xe B. Tàn M",
+    "answer": "ĐÚNG",
+    "explanation": "ưu tiên phía tay trái",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-420.jpg",
+    "questionNumber": 420
+  },
+  {
+    "id": "honmen-b-235",
+    "text": "Xe số tự động đã khởi động động cơ, nếu chỉ di chuyền cần số về D thì xe sẽ không thé chạy được.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 67,
+    "section": "honmen-b",
+    "questionNumber": 421
+  },
+  {
+    "id": "honmen-b-236",
+    "text": "Có thê vượt xe chạy chậm hơn trên đường dốc lên dốc nếu không có biên hoặc biển cắm vượt.",
+    "answer": "SAI",
+    "explanation": "Lên dốc cấm vượt",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 422
+  },
+  {
+    "id": "honmen-b-237",
+    "text": "Không cần phải giảm tốc độ khi vượt qua người đi bộ hoặc đi xe đạp nếu bạn có thể giữ khoảng cách an toàn với họ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 423
+  },
+  {
+    "id": "honmen-b-238",
+    "text": "(i Biển báo này biéu thị chiều rộng của đường bị giảm.",
+    "answer": "SAI",
+    "explanation": "Làn đường giảm",
+    "page": 2,
+    "section": "honmen-b",
+    "image": "assets/honmen/questions/honmen-a-424.jpg",
+    "questionNumber": 424
+  },
+  {
+    "id": "honmen-b-239",
+    "text": "Đang đi trong ngã tư nhưng có xe ưu tiên đến thì ép lề trái và dừng trong ngã tư.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 425
+  },
+  {
+    "id": "honmen-b-240",
+    "text": "Khi lưu thông ở đường có bề rộng bằng nhau thì phải ưu tiên phương tiện bên trái ( ko cần quan tâm đến quy định vòng xuyến )",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 2,
+    "section": "honmen-b",
+    "questionNumber": 426
+  },
+  {
+    "id": "honmen-c-1-1",
+    "text": "Đang lái xe với tốc độ 40 km/h. Phía trước có người đi xe đạp trong trạng thái loạng choạng, do vậy cần lưu ý gì khi lái xe? — Có thể người đi xe đạp sẽ nhận ra xe tôi đang tiến tới gần mình nên tôi cứ giữ nguyên tốc độ và lái xe vượt qua.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 68,
+    "section": "honmen-c",
+    "scenario": 1,
+    "statement": 1,
+    "questionNumber": 427
+  },
+  {
+    "id": "honmen-c-1-2",
+    "text": "Đang lái xe với tốc độ 40 km/h. Phía trước có người đi xe đạp trong trạng thái loạng choạng, do vậy cần lưu ý gì khi lái xe? — Người đi xe đạp trong trạng thái loạng choạng có khả năng bị ngã nên tôi nhanh chóng tăng tốc và lái xe vượt qua.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 68,
+    "section": "honmen-c",
+    "scenario": 1,
+    "statement": 2,
+    "questionNumber": 428
+  },
+  {
+    "id": "honmen-c-1-3",
+    "text": "Đang lái xe với tốc độ 40 km/h. Phía trước có người đi xe đạp trong trạng thái loạng choạng, do vậy cần lưu ý gì khi lái xe? — Có thể người đi xe đạp đang say rượu nên tôi lái xe về phía đường bên phải, khi xác nhận xe đạp không đi vào phần giữa đường thì lái xe vượt qua.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 68,
+    "section": "honmen-c",
+    "scenario": 1,
+    "statement": 3,
+    "questionNumber": 429
+  },
+  {
+    "id": "honmen-c-2-1",
+    "text": "ƒ 1| vft* +9 SN SA NI J 3 i * i Đang lái xe với tốc độ 30km/h. Trong khu vực có sương mù thi cần lưu ý gì khi lái xe? — Trong khu vực có sương mù có khả năng có người đi bộ xuất hiện đột ngột nên giảm tốc độ và bam còi khi cần thiết.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 69,
+    "section": "honmen-c",
+    "scenario": 2,
+    "statement": 1,
+    "questionNumber": 430
+  },
+  {
+    "id": "honmen-c-2-2",
+    "text": "ƒ 1| vft* +9 SN SA NI J 3 i * i Đang lái xe với tốc độ 30km/h. Trong khu vực có sương mù thi cần lưu ý gì khi lái xe? — Giảm tốc độ đột ngột có thể khiến cho xe sau đâm vào xe mình,do vậy nhấn phanh chia thành nhiều lần.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 69,
+    "section": "honmen-c",
+    "scenario": 2,
+    "statement": 2,
+    "questionNumber": 431
+  },
+  {
+    "id": "honmen-c-2-3",
+    "text": "ƒ 1| vft* +9 SN SA NI J 3 i * i Đang lái xe với tốc độ 30km/h. Trong khu vực có sương mù thi cần lưu ý gì khi lái xe? — | Khu vực có sương mù thì tầm nhìn bị hạn chế khá nhiều do vậy nếu có đèn dành cho khi vào khu vực sương mù thì bật đèn lên nêu không có thì nhanh chóng bật đèn pha, giảm toc độ và lưu thông.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 69,
+    "section": "honmen-c",
+    "scenario": 2,
+    "statement": 3,
+    "questionNumber": 432
+  },
+  {
+    "id": "honmen-c-3-1",
+    "text": "`. Đang lái xe với tốc độ 40km/h. Khi xe đối diện chạy vượt qua nhau với tình trạng đang bật đèn pha thì cần lưu ý gì khi lái xe? — Dođèn pha của xe đối diện chói nên cần chuyên hướng nhìn hơi chếch về phía phải dé tránh bị loa mat.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 70,
+    "section": "honmen-c",
+    "scenario": 3,
+    "statement": 1,
+    "questionNumber": 433
+  },
+  {
+    "id": "honmen-c-3-2",
+    "text": "`. Đang lái xe với tốc độ 40km/h. Khi xe đối diện chạy vượt qua nhau với tình trạng đang bật đèn pha thì cần lưu ý gì khi lái xe? — Đèn pha của xe đối diện làm lóa mắt và có khả năng không kịp bẻ lái cua dẫn tới đâm vào thanh rào chắn do vậy cần giảm tốc độ ngay lập tức.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 70,
+    "section": "honmen-c",
+    "scenario": 3,
+    "statement": 2,
+    "questionNumber": 434
+  },
+  {
+    "id": "honmen-c-3-3",
+    "text": "`. Đang lái xe với tốc độ 40km/h. Khi xe đối diện chạy vượt qua nhau với tình trạng đang bật đèn pha thì cần lưu ý gì khi lái xe? — Do đèn pha của xe đối diện chói nên khi đi ngang qua, tôi cũng bật đèn pha.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 70,
+    "section": "honmen-c",
+    "scenario": 3,
+    "statement": 3,
+    "questionNumber": 435
+  },
+  {
+    "id": "honmen-c-4-1",
+    "text": "— 5. = =. ' Đang lái xe với tốc độ 40km/h. Đằng sau 2 ô tô đang dừng có xe buýt tiến lại gần, khi lái xe cần lưu ý gì? — Vì xe buýt phải đảm bảo an toàn cho hành khách nên không lái xe cầu thả và sẽ nhường cho mình vượt qua trước, do vậy không đợi và tăng tôc đi vượt qua.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 71,
+    "section": "honmen-c",
+    "scenario": 4,
+    "statement": 1,
+    "questionNumber": 436
+  },
+  {
+    "id": "honmen-c-4-2",
+    "text": "— 5. = =. ' Đang lái xe với tốc độ 40km/h. Đằng sau 2 ô tô đang dừng có xe buýt tiến lại gần, khi lái xe cần lưu ý gì? — Vì xe buýt có thé lan sang đường trung tâm nên chạy sát đường trung tâm dé xe buýt không thé lan sang.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 71,
+    "section": "honmen-c",
+    "scenario": 4,
+    "statement": 2,
+    "questionNumber": 437
+  },
+  {
+    "id": "honmen-c-4-3",
+    "text": "— 5. = =. ' Đang lái xe với tốc độ 40km/h. Đằng sau 2 ô tô đang dừng có xe buýt tiến lại gần, khi lái xe cần lưu ý gì? — Từ phía sau của xe đang đỗ phía trước có thé người đi bộ qua đường, do vậy cần chú ý phía sau của xe đang đỗ và động thái của xe buýt, vừa giảm tốc độ vừa đi qua.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 71,
+    "section": "honmen-c",
+    "scenario": 4,
+    "statement": 3,
+    "questionNumber": 438
+  },
+  {
+    "id": "honmen-c-5-1",
+    "text": "ki — a À ts (hà >. TT ay — f Pel ` Đang lái xe với tốc độ 80km/h trên đường cao tốc. Xe cỡ lớn phía sau đang tăng toc tiên lại gan. Cân lưu ý gì khi lái xe? — Xe phía trước bên phải có khả năng chuyên gap sang làn trái hay xe máy phía trước bên trái có khả năng chuyền gap sang làn phải, do vậy giữ nguyên tốc độ, vừa giữ khoảng cách với xe ô tô phía trước vừa lưu thông.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 72,
+    "section": "honmen-c",
+    "scenario": 5,
+    "statement": 1,
+    "questionNumber": 439
+  },
+  {
+    "id": "honmen-c-5-2",
+    "text": "ki — a À ts (hà >. TT ay — f Pel ` Đang lái xe với tốc độ 80km/h trên đường cao tốc. Xe cỡ lớn phía sau đang tăng toc tiên lại gan. Cân lưu ý gì khi lái xe? — Nếugiữ khoảng cách với xe phía trước, có khả năng bị xe khác tạt đầu xe mình, do đó tăng tôc đê giảm khoảng cách với xe phía trước.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 72,
+    "section": "honmen-c",
+    "scenario": 5,
+    "statement": 2,
+    "questionNumber": 440
+  },
+  {
+    "id": "honmen-c-5-3",
+    "text": "ki — a À ts (hà >. TT ay — f Pel ` Đang lái xe với tốc độ 80km/h trên đường cao tốc. Xe cỡ lớn phía sau đang tăng toc tiên lại gan. Cân lưu ý gì khi lái xe? — Xe cỡ lớn phía sau dang tăng tốc tiến lại gần. Do vậy chuyền sang làn trái đang trống, vừa giữ khoảng cách với xe máy vừa lưu thông.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 72,
+    "section": "honmen-c",
+    "scenario": 5,
+    "statement": 3,
+    "questionNumber": 441
+  },
+  {
+    "id": "honmen-c-6-1",
+    "text": "GIAM TÓC ĐỘ VỚI TÓC ĐỘ 20KM/H KHI RE TRÁI 6 NGÃ TU THÌ NÊN LƯU Y DIEU GÌ KHI LAI XE : SS SSR F \\ Á — Khi lúi xe tại phần đường dành cho người đi bộ phía bên trói, vì có người đi bộ qua đường từ 2 phía nên đề tránh việc lam can trở việc đi lại của người di bộ, tôi rẽ trai ở phần trung tâm của đường.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 73,
+    "section": "honmen-c",
+    "scenario": 6,
+    "statement": 1,
+    "questionNumber": 442
+  },
+  {
+    "id": "honmen-c-6-2",
+    "text": "GIAM TÓC ĐỘ VỚI TÓC ĐỘ 20KM/H KHI RE TRÁI 6 NGÃ TU THÌ NÊN LƯU Y DIEU GÌ KHI LAI XE : SS SSR F \\ Á — Do có người đi bộ qua đường, dé người đi bộ an tâm đi qua đường, thì tiến va dừng lại trước phần đường cho người di bộ, đợi người đi bộ di qua và ré trói.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 73,
+    "section": "honmen-c",
+    "scenario": 6,
+    "statement": 2,
+    "questionNumber": 443
+  },
+  {
+    "id": "honmen-c-6-3",
+    "text": "GIAM TÓC ĐỘ VỚI TÓC ĐỘ 20KM/H KHI RE TRÁI 6 NGÃ TU THÌ NÊN LƯU Y DIEU GÌ KHI LAI XE : SS SSR F \\ Á — Có khỏ năng xe đổi diện cố tình rẽ nhải nân tâi tana the †ri ấ= vài",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 73,
+    "section": "honmen-c",
+    "scenario": 6,
+    "statement": 3,
+    "questionNumber": 444
+  },
+  {
+    "id": "honmen-c-7-1",
+    "text": "nes : Fr) Oe pees — _ Trong khu đường có rao chắn đường sắt, độ rộng của đường không đủ rộng nên đề đi vượt qua xe tải đối diện thì sau khi xe trước vượt qua, xe mình không dừng lai mà tiếp tục đi vào bên trong trong khu vực rao chắn đường sat.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 74,
+    "section": "honmen-c",
+    "scenario": 7,
+    "statement": 1,
+    "questionNumber": 445
+  },
+  {
+    "id": "honmen-c-7-2",
+    "text": "nes : Fr) Oe pees — Squ khi xe trước di chuyền thì tiến tới trước rùo chắn đường sắt, dừng lại và dùng tai với mắt xác nhận an toàn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 74,
+    "section": "honmen-c",
+    "scenario": 7,
+    "statement": 2,
+    "questionNumber": 446
+  },
+  {
+    "id": "honmen-c-7-3",
+    "text": "nes : Fr) Oe pees — Squ khi xe trước vượt qua khu đường có rào chắn đường sắt,phỏi dừng lại chờ ở phía trước rao chắn đường sắt cho tới khi xác nhận đủ chỗ trống cho xe mình có thề dừng an toàn ở phần phía trước ở phía bên kia của thanh ngang",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 74,
+    "section": "honmen-c",
+    "scenario": 7,
+    "statement": 3,
+    "questionNumber": 447
+  },
+  {
+    "id": "honmen-c-8-1",
+    "text": "Dang Idi xe trước khu đường có thanh ngang chẳn tau sau khi tạm dừng thi cần lưu ý gì khi Idi xe Ó tí F d q | —= aa E | St Te NI — Có đường có thanh ngang chân tau map mo Có kha năng bị mối lay nên tôi nắm chic tay Idi va tiền vào.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 75,
+    "section": "honmen-c",
+    "scenario": 8,
+    "statement": 1,
+    "questionNumber": 448
+  },
+  {
+    "id": "honmen-c-8-2",
+    "text": "Dang Idi xe trước khu đường có thanh ngang chẳn tau sau khi tạm dừng thi cần lưu ý gì khi Idi xe Ó tí F d q | —= aa E | St Te NI — Do đường có thanh ngang chan tàu múp mô Và xe đồi diện có thé lấn sang phần giữa đuong vừa chú ý động thdi của xe đó vừa tránh xe bị trật bánh xe nên cố gang Idi vào phần giữa đường va tiền vào.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 75,
+    "section": "honmen-c",
+    "scenario": 8,
+    "statement": 2,
+    "questionNumber": 449
+  },
+  {
+    "id": "honmen-c-8-3",
+    "text": "Dang Idi xe trước khu đường có thanh ngang chẳn tau sau khi tạm dừng thi cần lưu ý gì khi Idi xe Ó tí F d q | —= aa E | St Te NI — Do đường có thanh ngang chốn tau mắt mô không thé ngừng xe giữ chứng nên nhanh chống đồ i số tăng tốc chạy thang",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 75,
+    "section": "honmen-c",
+    "scenario": 8,
+    "statement": 3,
+    "questionNumber": 450
+  },
+  {
+    "id": "honmen-c-9-1",
+    "text": "Dang Idi xe với tốc độ 40km/h. Cần lưu ý gì khi Idi xe? ———— 8= =# — Giảm tốc độ đột ngột có thé lam xe sau đâm vào xe minh, do vậy tăng tốc va vượt xe tắc xi.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 76,
+    "section": "honmen-c",
+    "scenario": 9,
+    "statement": 1,
+    "questionNumber": 451
+  },
+  {
+    "id": "honmen-c-9-2",
+    "text": "Dang Idi xe với tốc độ 40km/h. Cần lưu ý gì khi Idi xe? ———— 8= =# — Người đi bộ vẫy tay gọi tắc xi nên có kha năng xe sẽ dừng đột ngột do vậy cần giảm tốc độ và giữ khoảng cach giữa hai xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 76,
+    "section": "honmen-c",
+    "scenario": 9,
+    "statement": 2,
+    "questionNumber": 452
+  },
+  {
+    "id": "honmen-c-9-3",
+    "text": "Dang Idi xe với tốc độ 40km/h. Cần lưu ý gì khi Idi xe? ———— 8= =# — .. Do xe tắc xi không bat xi nhan rẽ trái ma phía sau dang có xe chạy đên nên chúc không có kha năng xe tắc xi dừng đột ngột do đó tôi giữ nguyên tôc độ và lưu thông.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 76,
+    "section": "honmen-c",
+    "scenario": 9,
+    "statement": 3,
+    "questionNumber": 453
+  },
+  {
+    "id": "honmen-c-10-1",
+    "text": "Vì không thể quan sát hết tình hình giao thông phía trước nên trước khi cho xe tiến vào nơi chắn tàu cần tạm dừng xác nhận xem phía bên kia có còn khoảng trống cho xe mình hay không.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 77,
+    "section": "honmen-c",
+    "scenario": 10,
+    "statement": 1,
+    "questionNumber": 454
+  },
+  {
+    "id": "honmen-c-10-2",
+    "text": "Dù có xe phía trước đang tiến đến, nhưng bạn cũng không nên di chuyển qua sát về phần đường bên trái.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 77,
+    "section": "honmen-c",
+    "scenario": 10,
+    "statement": 2,
+    "questionNumber": 455
+  },
+  {
+    "id": "honmen-c-10-3",
+    "text": "Vì có xe tải đang di chuyển đằng sau xe đang chạy ngược chiều phía trước nên có khả năng đường trong nơi chắn tàu sẽ không đủ rộng để có thể tránh xe tôi, do đó bạn đã di chuyển nối đuôi theo xe phía trước, nhanh chóng di chuyển qua nơi chắn tàu.",
+    "answer": "SAI",
+    "explanation": "",
+    "page": 77,
+    "section": "honmen-c",
+    "scenario": 10,
+    "statement": 3,
+    "questionNumber": 456
+  },
+  {
+    "id": "honmen-c-11-1",
+    "text": "TM fe\" | meen as en i — Xe đối diện dang tới gần, xe phía trước có kha năng sẽ dừng trong khoảng góc cua, nên tôi giảm tôc độ vừa quan sat đông thời 2 xe đó và lưu thông",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 78,
+    "section": "honmen-c",
+    "scenario": 11,
+    "statement": 1,
+    "questionNumber": 457
+  },
+  {
+    "id": "honmen-c-11-2",
+    "text": "TM fe\" | meen as en i — Xe phía trước và xe đôi diện do di vượt qua nhau nên xe trước có thê lùi xe. Do vậy tôi giữ khoảng cách giữa 2 xe và dừng xe.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 78,
+    "section": "honmen-c",
+    "scenario": 11,
+    "statement": 2,
+    "questionNumber": 458
+  },
+  {
+    "id": "honmen-c-11-3",
+    "text": "TM fe\" | meen as en i — Tuy giữa 2 xe phía trước có cột điện, có khoảng trồng nhưng việc lưu thông tai chỗ đó nguy hiểm nên tôi giữ khoảng cach giữa 2 xe va lưu thong.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 78,
+    "section": "honmen-c",
+    "scenario": 11,
+    "statement": 3,
+    "questionNumber": 459
+  },
+  {
+    "id": "honmen-c-12-1",
+    "text": "a Su. Dang Idi xe với tốc độ 80km/h trên đường cao tốc. Cần lưu ý gì khi Idi xe? — Xe của mình có kha năng dang ở vị trí góc chết của gương hậu xe bên phỏi do vay ta giảm ga và ra khỏi góc chết.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 79,
+    "section": "honmen-c",
+    "scenario": 12,
+    "statement": 1,
+    "questionNumber": 460
+  },
+  {
+    "id": "honmen-c-12-2",
+    "text": "a Su. Dang Idi xe với tốc độ 80km/h trên đường cao tốc. Cần lưu ý gì khi Idi xe? — Xe chạy đường dai dễ bị rơi vào tình trạng chay quad tốc độ nên vừa lưu thông vừa nhìn đồng hồ tốc độ đề xác nhận tốc độ.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 79,
+    "section": "honmen-c",
+    "scenario": 12,
+    "statement": 2,
+    "questionNumber": 461
+  },
+  {
+    "id": "honmen-c-12-3",
+    "text": "a Su. Dang Idi xe với tốc độ 80km/h trên đường cao tốc. Cần lưu ý gì khi Idi xe? — Do tình hình giao thông phía trước của xe tỏi không thé nhìn thấy nên vừa lưu thông vừa giữ thêm khoảng cúch giữa 2 xe dài hơn.",
+    "answer": "ĐÚNG",
+    "explanation": "",
+    "page": 79,
+    "section": "honmen-c",
+    "scenario": 12,
+    "statement": 3,
+    "questionNumber": 462
+  }
+]
